@@ -1,5 +1,7 @@
 # Consumer-Facing Dermatology AI Benchmark
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21754439.svg)](https://doi.org/10.5281/zenodo.21754439)
+
 This repository is the reproducibility package for **Diagnostic Performance of Consumer-Facing Artificial Intelligence Applications for Skin Cancer Across Fitzpatrick Skin Tones**.
 
 The primary cohort contains 231 Fitzpatrick17k images evaluated by AI Skin Scanner, Model Dermatol, ChatGPT, and Claude. The repository includes cohort identifiers, source-derived labels, per-image application outputs, adjudication dictionaries, analysis-ready outcomes, R scripts, result tables, and publication figures. Source images are not redistributed.
@@ -61,7 +63,7 @@ Download and use source images only under the original dataset terms. The MD5-ha
 
 ## Citation and Archiving
 
-This public repository is available at https://github.com/jsonchen47/dermatology-ai-skin-tone-benchmark. Citation metadata are provided in `CITATION.cff`. Before manuscript submission, create a versioned GitHub release, archive that release with Zenodo, and add the version-specific DOI to `docs/DATA_SHARING_STATEMENT.md` and `CITATION.cff`.
+This public repository is available at https://github.com/jsonchen47/dermatology-ai-skin-tone-benchmark. Release `v1.0.0` is archived at https://doi.org/10.5281/zenodo.21754439. The all-versions concept DOI is https://doi.org/10.5281/zenodo.21754438. Citation metadata are provided in `CITATION.cff`.
 
 ## License
 

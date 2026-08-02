@@ -8,7 +8,7 @@
 - Review all files in `figures/` against the submitted manuscript.
 - [x] Create a public GitHub repository at https://github.com/jsonchen47/dermatology-ai-skin-tone-benchmark.
 - [x] Enable the repository in Zenodo.
-- Create the GitHub `v1.0.0` release and confirm that Zenodo archives it.
-- Add the version-specific Zenodo DOI to the GitHub release, manuscript Data Sharing Statement, and citation metadata.
-- Add the version-specific Zenodo DOI to `docs/DATA_SHARING_STATEMENT.md` before submission.
+- [x] Create the GitHub `v1.0.0` release and confirm that Zenodo archives it.
+- [x] Add the version-specific Zenodo DOI to the GitHub release, manuscript Data Sharing Statement, and citation metadata.
+- [x] Add the version-specific Zenodo DOI to `docs/DATA_SHARING_STATEMENT.md` before submission.
 - Cite both source datasets according to their original citation requirements.
