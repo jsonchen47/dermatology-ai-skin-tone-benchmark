@@ -61,7 +61,7 @@ Download and use source images only under the original dataset terms. The MD5-ha
 
 ## Citation and Archiving
 
-Citation metadata are provided in `CITATION.cff`. Before manuscript submission, create a versioned GitHub release, archive that release with Zenodo, and replace the placeholders in `docs/DATA_SHARING_STATEMENT.md` with the public repository URL and version-specific DOI.
+This public repository is available at https://github.com/jsonchen47/dermatology-ai-skin-tone-benchmark. Citation metadata are provided in `CITATION.cff`. Before manuscript submission, create a versioned GitHub release, archive that release with Zenodo, and add the version-specific DOI to `docs/DATA_SHARING_STATEMENT.md` and `CITATION.cff`.
 
 ## License
 

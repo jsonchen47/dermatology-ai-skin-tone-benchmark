@@ -4,6 +4,7 @@ title: "Consumer-Facing Dermatology AI Benchmark Across Fitzpatrick Skin Tones"
 type: software
 version: 0.1.0
 date-released: 2026-08-01
+repository-code: "https://github.com/jsonchen47/dermatology-ai-skin-tone-benchmark"
 authors:
   - family-names: Chen
     given-names: Jason
