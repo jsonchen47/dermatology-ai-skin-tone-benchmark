@@ -1,0 +1,232 @@
+"md5hash","fitzpatrick_scale","fitzpatrick_centaur","label","nine_partition_label","three_partition_label","qc","a_dx_1_correct","a_any_dx_correct","a_dx_1_malignancy_correct","m_dx_1_correct","m_any_dx_correct","m_dx_1_malignancy_correct","c_dx_1_correct","c_any_dx_correct","c_dx_1_malignancy_correct","cl_dx_1_correct","cl_any_dx_correct","cl_dx_1_malignancy_correct"
+"fc00af3afd475aa7679fe83be88b4b8e",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,1,1,1,1,1,1
+"c0d87b8dc5b8419b85c8fa07517007fd",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"57b5a38f58b25a43d4997a599154baf9",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,1,1,1,1,1,1
+"a49abcfad0d9a5270d1c9488a6fc466f",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,0,0
+"50c5fdef946e0cd8ef022a82c6167381",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,0,1,0,1,1,1,1,1,1
+"fce617ed190a7d97bfad65ebb6e767d7",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,0,0,1,1,1
+"547fd367c30b04f56988da2c5aab46f4",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,0,0,0,1,1,1,0,0,0
+"66f46297056511b1057d5c31ad7acd23",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,1,0
+"2222992c3bb757f63b0f36674ea0e5f2",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,1,1,1,1,0,1,1,1,1,1
+"a3a0ffe406386ff29eb7a6cebc3c4985",1,1,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,1,1,1,1
+"9a2685b99d2db77c7297891d1c5b2dae",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,1,1,1,1,1,1
+"4ff4109275ef98c7cd754dee47249adc",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,1,1,1,0,0,1,0,1,1
+"38d20f98356a171a3c206985213c366b",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,1,0,1,1
+"7075c2cde6d86aa53d709a2ead26b93f",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,1,0,0,0,0,1,0,0,0,0
+"48cec03c27c9107baa6cea045851ec23",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"6f6f8c6bb2e0d48e9c6b4d4345ab56b7",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,1,1,1,1,1,1
+"9ec57ddbac15eba36a635c7c7eb7b4c0",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,0,0,0,0,1,1,1,1,1
+"f909638c31e8f182ddf042a2573a96b2",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,1,1,1,1
+"2b1d6c4f83524d2e9a0047053986b6a3",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"d48ef382ac315465ba4322ca3b660c8f",2,2,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,1,1,1,1
+"07360bff59d68a64fe7e279625a4bbd4",3,3,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,0,0
+"bc578ce738482dd8f76af0c5ef32bca6",3,3,"squamous cell carcinoma","malignant epidermal","malignant","1 Diagnostic",0,1,1,1,1,1,0,1,1,1,1,1
+"15e4e61777fdee377d7a930c224939d0",3,3,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,1,1,1
+"82f57c180f4a89b2fcce489bf47a2074",3,3,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,1,1,1,0,1,1
+"0b035e5709e08c96e471bf050c805697",3,3,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,0,0
+"2cd9e868bed17ffb8c6b118d91c441c7",3,3,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,1,1,1,1,1,1,1,0,0,0
+"d0b0400c882ead562db99693b7548504",3,3,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,1,0,1,1
+"567224dca06e7f3fa5ec45ee4745a4e1",3,3,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,1,0,1,1
+"528442cac3214e5f4785f78b1fcad0cc",3,3,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,1,0,1,1
+"7ae07553e54194d86ee8dac84e470ff8",3,3,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,1,0
+"69568fbb5f210c22cc07d54a578dfffe",4,4,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,1,1,1,1,1
+"45b54dadb3dfc9b5f0daaf9359fcbc43",4,4,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"9de1afbb265ce50b1d0829f54fe4b668",4,4,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,1,1,1,1,0,1,1,1,1,1
+"4e90f3cc9051c8bcc7ee07f25e169134",4,4,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,1,1,1,1,1,1
+"ba50c75cb5701c4f29b7f662510fca0a",4,4,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,1,0
+"b689987ba3fa37e45f8c62f349f992a9",4,4,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,0,1,0,1,1,1,1,1,1
+"f3f6c3ad40a1f6fcc3aba0d74a3de8c3",4,4,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,0,1,0,0,0
+"fcc9ed3892215e076e9dc5b7a8bf81e7",4,4,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,0,0,0,0,1,1,1,1,1
+"73ac23918c9537a8c792938b64f779e0",4,4,"squamous cell carcinoma","malignant epidermal","malignant","5 Potentially",0,0,0,0,0,0,0,0,0,0,0,0
+"4bd61d9c3ec99cdea6d24b0915e2cd12",4,4,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,0,0,0,0,0,1,0,1,1,1
+"5de18144953b0dcf774605ae4a9c65c3",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,0,0,0,0,1,0,0,1,1
+"5064dcda8586eb8f2548b1bfce9de3c2",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,0,0
+"e36a4c4eec75df99bd208175e4279e50",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,1,1,1,1,1,1
+"24c7a58c0e60303086d0f5f89b121ae4",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,1,0,0,0
+"1f2489a044a3e3de6bb33af5359e267b",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,0,0,0,0,0,0,1,0,1,1
+"257b98dac6241fa7fc474d3ccd0cc23e",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,1,0,0,1
+"70b283d0053a683abc14e4cf4ce83ac5",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,1,0,1,1
+"4978a6b94f69b38e5a0fe45857242f45",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,0,0
+"a8d1b8f97efb9cebccd244b212d77f28",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,1,1,1,1,1,1,1,1,1
+"54062cedd5bf0e41f3c95feba2bb0373",5,5,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,1,0,0,0,0,0,0,0,1,1
+"1fc1eff4c66e8e14b039964fac65ba7e",6,6,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"bee428af68657ff702c769092b1998c6",6,6,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,1,1,1,0,0,1
+"aba082609e966daf665ccfbb264c226f",6,6,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,1,0,1,1,1
+"9fe7369e9cd9a468a2feb65a81c4bb13",6,6,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,1,1,0,0,0
+"c465d8b7a4273c618cea01568be5299a",6,6,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"af048401c6e99acaba177eef6c43c45c",6,6,"squamous cell carcinoma","malignant epidermal","malignant","2 Characteristic",0,1,0,0,1,0,0,1,0,1,1,1
+"36c7bbdced601b5d9fb1cc7cdc0df7e3",6,6,"squamous cell carcinoma","malignant epidermal","malignant","",0,1,0,1,1,1,1,1,1,1,1,1
+"7cedaa3277cb1efd41f5f9f70e6be0c7",6,6,"squamous cell carcinoma","malignant epidermal","malignant","",1,1,1,0,0,0,0,1,1,0,1,1
+"33184eb4424abaf46843d89c4c408552",6,6,"squamous cell carcinoma","malignant epidermal","malignant","1 Diagnostic",0,1,0,0,1,0,1,1,1,1,1,1
+"a246a3150fe89472eb84a7d49841ae27",6,6,"squamous cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,1,0,0,1,1
+"d2c77aa81ca884f99174471132bd3e24",1,1,"basal cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,0,0
+"a7821ca7a0f65f9095a61d66c234f683",1,1,"basal cell carcinoma","malignant epidermal","malignant","",0,1,0,0,0,0,0,1,0,0,1,1
+"1bbe4519608f606a18adf1811fd1c051",1,1,"basal cell carcinoma","malignant epidermal","malignant","",0,1,0,1,1,1,0,1,1,0,0,1
+"42bb46cb779b95f10e531e2b6181e439",1,1,"basal cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,1,0,0,0,0
+"d2e96d346577a155b0125dda66b16395",1,1,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"9f0704d534bda1e469eb5e19bd4aa4e6",1,1,"basal cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,0,0,1,1
+"edaf72dfe0910228db8eb491ed9dc2b3",1,1,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,1,0,1,1
+"95ac125ff5c616b972d9be4419f2a7a6",1,1,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,1,1
+"4ea4ab5f3ef5e7f1b8b422eaff3066f6",1,1,"basal cell carcinoma","malignant epidermal","malignant","",0,0,1,1,1,1,1,1,1,1,1,1
+"1b1a8cfbe054b2fa9895a08644a10e28",1,1,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,0,0,0,0
+"9838b6548e7842a1c228e9548a32099c",2,2,"basal cell carcinoma","malignant epidermal","malignant","1 Diagnostic",0,1,0,0,0,0,0,0,0,0,0,1
+"cf3d2262e2ddccfee4641197f689e6dd",2,2,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,1,0,1,1
+"4774398105aa32b8d004b499ccbf5633",2,2,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"516b8ed8e7db3a27e68118aac9191fb5",2,2,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"6323e7bf168cb3f170902b24cd05e8c4",2,2,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,1,1
+"fb7c974e189e0dc9cbd83e2d22835e94",2,2,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,0,0,1,1
+"13135f44ed77ea527b70db862a83bd61",2,2,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"94937a8ab45b71486731a59c5e5448e4",2,2,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"46cfd1a77dfc44893b3166eca5f5514d",2,2,"basal cell carcinoma","malignant epidermal","malignant","",0,0,0,1,1,1,0,1,0,1,1,1
+"be7bead78fed91bdc5056a70246ed703",2,2,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"f08034a69a57680dbe4521f6e913ba22",3,3,"basal cell carcinoma","malignant epidermal","malignant","",0,1,0,0,1,0,0,0,0,0,0,0
+"4a42c72a20a24c80ee1d43aca4a1e498",3,3,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,0,1
+"95e4e2ee44567f284171a4f368a7aecd",3,3,"basal cell carcinoma","malignant epidermal","malignant","",0,0,0,0,0,0,0,0,0,0,0,0
+"bc3fd36c7d32ae2f2961409049e240b4",3,3,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,0,0
+"7cc6621d7d99fcca1f0bf2b6bd3043fb",3,3,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,1,0,1,0
+"521773286f1d292e0cdcf5c1354fc0ea",3,3,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,1,1
+"13b24f877270a05937f4c80fff693b04",3,3,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,1,1
+"736143719650b30bb48965ee67c3ee4e",3,3,"basal cell carcinoma","malignant epidermal","malignant","",0,0,0,1,1,1,0,0,0,0,0,1
+"2d88a3fa67aa761b65e280c2e14c68c3",3,3,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,1,1
+"22bcca7d579abf5c2c121c98aa01a4c7",3,3,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,0,1,1,1
+"ec434ee7ba467dd5ec5a4b87fd515e29",4,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,0,1
+"82375585ff47e3738a54447e43b613f2",4,4,"basal cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,0,1,1,0,1,1
+"db871411820979160cb098e6453399ce",4,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"8cb3945cf58f8e5540208408a50b5827",4,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"c7aac9b9850c541b1cf2619c7cec8d06",4,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,0,1,0,0,1,0,1,1,1
+"5832419baf0cbfefcac35578a40fa5a5",4,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,0,0,0,0
+"af64774e30b2dc701e3f2a88348a78dc",4,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"794572175ce2487d073bcbd2d62f2743",4,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"de24cc0b5dc20eccdd67e7a60c8a1fa9",4,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"6ed58ed2e4c8b378493cd5766f7bad56",4,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,1,0,1,1
+"9ca9d8e0946f6d8598daad6770b5581f",5,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"70b99a1005a08821fd9b9c48d7e8e698",5,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,0,1,0,0,0,1,0,0,1
+"5ff2e2cbcbb9f92610ec54dca324d149",5,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,0,1
+"875d767d2fa63aa3f740d7d19f21e32a",5,4,"basal cell carcinoma","malignant epidermal","malignant","",0,1,1,1,1,1,1,1,1,0,1,0
+"bba3db5954f7975d59a37347222d954d",5,4,"basal cell carcinoma","malignant epidermal","malignant","",0,0,0,1,1,1,1,1,1,1,1,1
+"1dcc2fb45c366dafbb1f45c0e8afd3bd",5,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,0,1,0,0,1,1,0,0,1
+"9255b18c770f58de26221d16839fadb2",5,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,0,0,1,0
+"915d7fa381560d5b77f1e37cd1c37206",5,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,0,0,0,0,1,0,0,0,1
+"032b3adb839c23047aedc87707ff978e",5,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,0,1
+"89867feafae04841becf921893861722",5,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,0,1
+"849d862189a58f44a063ee6ba1a80b1b",5,4,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,0,0,1,1
+"9209a4be6a83500ae0c536cc16386284",5,5,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,0,0,0,1
+"94646305d86635230c4eb1763bb043bc",5,5,"basal cell carcinoma","malignant epidermal","malignant","",0,1,0,1,1,1,0,1,1,0,1,1
+"5f1a4d80fdc87563f3cc7174241c3477",5,5,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,0,1
+"49ed416e5f1dc646ecbaf99b23b48095",5,5,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,1,1,1,0,1,1
+"b02abb6e18e64ffd99083dcf884ad75a",6,5,"basal cell carcinoma","malignant epidermal","malignant","",0,0,0,1,1,1,1,1,1,0,0,0
+"2cc47698a46f2371a31a5a5a547de03a",6,5,"basal cell carcinoma","malignant epidermal","malignant","",0,0,0,1,1,1,1,1,1,0,0,1
+"a1d96dfd1897917119021000c1f9a5af",6,5,"basal cell carcinoma","malignant epidermal","malignant","",1,1,1,1,1,1,0,1,0,0,1,1
+"16e8de6bd449154d0823adddef933b73",1,1,"malignant melanoma","malignant melanoma","malignant","",0,0,0,1,1,1,0,0,1,0,0,1
+"e170d124649f3cddf0e8d2ac7a4e597f",1,1,"melanoma","malignant melanoma","malignant","",0,1,1,1,1,1,1,1,1,1,1,1
+"c12375fa8da3696e9198df1fd74703c1",1,1,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"b222feca6ef56a50502589690b14cb1a",1,1,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,0,1,1,1,1,1
+"0fc62c72c433cd6f7ff35d6ba510ac48",1,1,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,1,1,1,1,1,1
+"fc6e05f39ad27f0d3717f4fb51e607ef",1,1,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,0,0,1
+"e4e6247b65749ac9939b1465693e9bfb",1,1,"melanoma","malignant melanoma","malignant","",0,1,1,1,1,1,0,1,1,1,1,1
+"361c860d6d11345eb0d14b6ff560a952",1,1,"melanoma","malignant melanoma","malignant","",1,1,1,0,0,0,1,1,1,0,1,0
+"98a86bd0a6b6d31cc399703220627eab",1,2,"melanoma","malignant melanoma","malignant","",0,1,0,0,0,0,0,1,0,0,0,0
+"1e7a332c75655b759c774efeac3d9dcc",1,1,"melanoma","malignant melanoma","malignant","",0,1,0,0,0,0,0,1,0,0,0,1
+"203f72e12bfd9132ba8f843eaa9a894f",2,1,"melanoma","malignant melanoma","malignant","1 Diagnostic",0,0,0,0,0,0,0,1,1,1,1,1
+"163d9c550fad4704990a3d1b8183d0f8",2,2,"melanoma","malignant melanoma","malignant","",0,1,1,0,0,0,1,1,1,1,1,1
+"c05b03bcef867fca1e842f5226089b2c",2,1,"melanoma","malignant melanoma","malignant","",0,0,0,0,1,0,1,1,1,0,0,0
+"62d277784521ca0bc25d6e91268b3c71",2,1,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"cc2bd788c5212e2ec7e0869b9e9279e5",2,1,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,1,1,1,0,0,1
+"c8e15692cc70579b3ca3b0cf8236ac0d",2,1,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,0,1,0,1,1,1
+"1400a56e8de2b64427acf3ba96895ded",2,1,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,0,0,0,1,1,1
+"85f9b49f753224a9a20c6fb66169335b",2,2,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,0,0,0,1,1,1
+"40322591e45e91f55f0ba4daff917d1f",2,3,"melanoma","malignant melanoma","malignant","",0,1,0,0,1,0,0,1,0,1,1,1
+"098d28da6fe1db559126d701d74fc8e0",2,2,"melanoma","malignant melanoma","malignant","",0,1,0,1,1,1,0,0,0,1,1,1
+"f0758a39abe4ef22f174aa6e68689459",3,2,"melanoma","malignant melanoma","malignant","",1,1,1,0,0,0,0,1,0,0,0,1
+"6c01e05cf7c76a641b92bb4b7383d27b",3,4,"melanoma","malignant melanoma","malignant","",0,1,0,0,1,0,0,1,0,0,0,1
+"bfb6b1bace873ed26a0f69d6bfde27ba",3,2,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,0,0,1,1,1,1
+"16732968b8b8bf0e9dc529bb65031adf",3,3,"malignant melanoma","malignant melanoma","malignant","",0,0,1,1,1,1,0,0,1,0,0,0
+"38c5bd7619923f1297d3b49cebd1bd85",3,2,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"079c3dd9e4b48d119bcdcfc024558128",3,3,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,0,1,0,0,0,1
+"2004c88f0aba56122257c4f71e67c719",3,3,"malignant melanoma","malignant melanoma","malignant","",0,0,1,1,1,1,0,0,0,0,0,1
+"6744db78a0f5c8b6a5ce65df24cb7473",3,3,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"68528c33db3fc238d183b5d2c14d6f75",3,3,"melanoma","malignant melanoma","malignant","",0,1,0,0,0,0,0,1,0,1,1,1
+"80af44814ea5730ac2e9ba49971ed054",3,3,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,0,1,0,0,1,0
+"031906ece1abcde6af5ef82780ea3034",4,3,"malignant melanoma","malignant melanoma","malignant","",0,1,1,0,1,0,0,0,0,0,0,1
+"44dd09cec3d8e1a42c64235346e4d062",4,2,"melanoma","malignant melanoma","malignant","",1,1,1,0,1,0,1,1,1,1,1,1
+"1d78d91cb196cb45b40c615cbf7a94ff",4,4,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,0,1,0,1,1,1
+"25f0286ffedff3a8a17bcdb8f220cdaf",4,3,"melanoma","malignant melanoma","malignant","",1,1,1,0,0,0,0,1,1,0,0,0
+"30559e9ff81800fcc4e2819d89988b88",4,4,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"3b36608c5ee59c5c9d86d64fb5309007",4,4,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"3f014488acf61087ab152f8dc5fac8b3",4,4,"melanoma","malignant melanoma","malignant","",0,0,1,1,1,1,0,0,1,0,0,1
+"e64bc4a3e3dfc2db301f0b8c64253da5",4,3,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"00f1b7bb9581e91250a2bb224c3321b8",4,3,"melanoma","malignant melanoma","malignant","",0,0,1,1,1,1,0,1,1,1,1,1
+"be813befb6f1f53ce07c77838af159ea",4,3,"malignant melanoma","malignant melanoma","malignant","",0,0,0,1,1,1,0,0,1,0,0,1
+"0d8457afebb67905127da37baece43d8",5,4,"melanoma","malignant melanoma","malignant","1 Diagnostic",1,1,1,0,0,0,1,1,1,1,1,1
+"1d8fcc49e4dda6868fcf76916fc14405",5,4,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,0,1,1,0,0,1
+"1ef72998789229d4659d564ba15e7432",5,6,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,1,1,1,0,0,0
+"37de8e0406609884c1140bf660798d40",5,5,"melanoma","malignant melanoma","malignant","",1,1,1,0,1,0,0,1,1,1,1,1
+"3edf305f280a7b9753a141631b8f3ad9",5,4,"melanoma","malignant melanoma","malignant","",0,1,0,1,1,1,1,1,1,1,1,1
+"7041e0d82e0d554237bd1e6dc886a81f",5,4,"melanoma","malignant melanoma","malignant","",0,0,1,1,1,1,1,1,1,1,1,1
+"7d4182584c503100338e00b7b46bcc4b",5,6,"melanoma","malignant melanoma","malignant","",1,1,1,0,0,0,0,0,0,0,0,0
+"a9f949191444e250146b49ff8c95c6ac",5,4,"malignant melanoma","malignant melanoma","malignant","",0,1,1,1,1,1,0,0,0,0,0,0
+"ac04675f4d3943dfcfadd5284c60ef20",5,4,"melanoma","malignant melanoma","malignant","",0,1,0,0,0,0,0,1,0,1,1,1
+"d4862d1b866e2c536dde339f60de4f0d",5,4,"melanoma","malignant melanoma","malignant","",0,0,0,1,1,1,0,0,1,0,0,1
+"eab91c11e20398a89c454717dc5eaa94",5,5,"melanoma","malignant melanoma","malignant","",1,1,1,0,0,0,0,1,1,0,0,0
+"02f11821915d67f20fb15a8e8b96c1d3",6,5,"melanoma","malignant melanoma","M","",0,0,0,1,1,1,0,1,0,0,1,0
+"3b24865e842419e4efc3fb909c633077",6,6,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,0,1,1,0,0,0
+"454e68bf5705eabf0f4d28fc1dbd77be",6,6,"melanoma","malignant melanoma","M","",1,1,1,0,0,0,1,1,1,1,1,1
+"4ab4fa98f5acf7ec42886917128df401",6,6,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,1,1,1,1,1,1
+"4c3f795cf8eb72b946f9bd2642cf23c1",6,5,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"617f9ddb778028f305520a92ac052c68",6,6,"melanoma","malignant melanoma","malignant","",1,1,1,0,1,0,0,1,1,1,1,1
+"a177a5fc4b0e7033c39fb4f2503279ab",6,6,"melanoma","malignant melanoma","malignant","",1,1,1,1,1,1,1,1,1,1,1,1
+"b22e94f7e5cde4d33adf24245ea5faf2",6,6,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,0,1,0,0,0,0
+"d10722216af2bab5bfc450259169f9fe",6,6,"melanoma","malignant melanoma","malignant","",0,0,0,0,0,0,0,1,0,0,1,1
+"04ff8956172642998a8edbcaa0960f09",1,1,"congenital nevus","benign melanocyte","benign","",0,0,0,1,1,1,1,1,1,1,1,1
+"6135408e7729eb1deb0711446ecc4883",1,1,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,1,1,1
+"67a5980c2855fb037a812e716dc911ca",1,1,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,0,1,1,0,0,1
+"7edd1ea64cd58993db33eb7f63c9e23b",1,1,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,1,1,1
+"8169683ac60b87ed3de3870d8a5e1c19",1,1,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"870cc15be006f854b30fb4959bb54eae",1,1,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"886e41a00b7d754d53e7ecd9dec9058f",1,1,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"9b80bb011a2ae3f741c6c1af12ec34e9",1,1,"congenital nevus","benign melanocyte","benign","1 Diagnostic",0,0,1,0,1,1,0,0,0,1,1,1
+"b9e384f23afb5f3b9312668aebfc342f",1,1,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,1,1,1,1,1,1
+"c0a5c449ab3d9164f7558370210dadfb",1,1,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,1,1,1
+"d52c33f0ce4c9947fc062f4c95ab50f2",1,1,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,0,0,1,1,1,1
+"1e8e1f523ca089efdeffd0244eec6c85",2,1,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,1,1,1,0,1,1
+"49635d65d9bc4f7d605f912397ffb3ff",2,1,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,1,1,0,0,1
+"67af6e2923e52eff436a013572b7088b",2,1,"halo nevus","benign melanocyte","benign","",0,0,0,0,1,1,0,0,1,0,0,0
+"7094ebc9834c1cbe6991ca9eb6f38c9a",2,1,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,0,0,1,1,1,1
+"70f0fd4d38ece05739370023a873cc10",2,1,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,1,1,1
+"731faa24d8d0b5dc3b266fdfaa0a3154",2,1,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"7fcf488081345e8e4a3b2e3636900f70",2,1,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,1,1,1,1,1
+"d0bfab00dfa3c2c832ddf9e95ad23075",2,2,"congenital nevus","benign melanocyte","benign","",0,0,1,0,1,1,1,1,1,1,1,1
+"e4e454f19f97b4438229aa58ead1d365",2,3,"halo nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"f2a275f5f8fe396644e1601abfe356f9",2,1,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,1,1,1
+"50e884335df0cc38774797b1e3da724c",3,3,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,1,1,1
+"7414a1d3b0319e921a73b2dbf874b7c9",3,3,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,0,0,1,1,1,1
+"773ad86674166846f5568c000bc394a1",3,3,"halo nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"8a3f07df6cf5f88cf06a9a2b0aa35422",3,3,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"bf099025b4eb00a75d473a3b366952f5",3,3,"halo nevus","benign melanocyte","benign","",1,1,1,0,0,1,0,0,1,0,0,1
+"c8c63f5f347e408981de99a00cbd255d",3,2,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,0,0,1,1,1,1
+"d1603db4f4b5efc013984ee9bcaa6b06",3,3,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,1,1,1,0,0,1
+"d91f1961238599efad26aa8142fb196d",3,3,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,0,0,1,0,0,1
+"e4ba0957015d8478e9a1974968a34b31",3,3,"halo nevus","benign melanocyte","benign","",1,1,1,1,1,1,0,0,1,0,0,1
+"feabe7afd5bf64029cde195e8edad3a5",3,3,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,0,0,0,1
+"55b0a18bf7d66e453577477afad86967",4,4,"halo nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,1,1,1
+"6a0264fec349d4487c83a53bc8d5d690",4,4,"halo nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"6a4b03f7cf0e7b6fcc018ea929e4acd5",4,3,"congenital nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,0,0,1
+"931d34dec55210d6241da6b512f0110e",4,4,"halo nevus","benign melanocyte","benign","",1,1,1,1,1,1,0,0,1,0,0,1
+"968e1a5756f64d872387e90182a2babf",4,5,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"afb1549a32af6db1a892ba9c8f162efb",4,3,"halo nevus","benign melanocyte","benign","",1,1,1,1,1,1,0,0,1,0,1,1
+"b1098b20b934997bfc37b366c6bbbf72",4,3,"halo nevus","benign melanocyte","benign","",0,0,1,1,1,1,0,0,1,1,1,1
+"dea8f4fc4ec290d3bc9b5b0977bdf880",4,4,"halo nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"f27cd92ce48e3148f78e5a46c11a460a",4,4,"halo nevus","benign melanocyte","benign","",0,0,1,1,1,1,0,0,1,1,1,1
+"f5289a44be7bbf579e192c12774390c2",4,3,"halo nevus","benign melanocyte","benign","",1,1,1,1,1,1,1,1,1,1,1,1
+"26b46628697510ce0ede5851006d5c34",5,4,"halo nevus","benign melanocyte","benign","1 Diagnostic",0,0,1,1,1,1,1,1,1,1,1,1
+"2d47534396dae6130583dfb65c30fe61",5,4,"halo nevus","benign melanocyte","benign","",0,1,1,1,1,1,1,1,1,1,1,1
+"535e72695bd844f8ef74d4aab4299f33",5,6,"halo nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,1,1,1
+"91a12888aa3eb6ac9011939352a9c6e2",5,4,"halo nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"9a049a3ca3f96ae3356d30d1486f7bef",5,5,"halo nevus","benign melanocyte","benign","",1,1,1,1,1,1,1,1,1,0,1,1
+"a11c754f8e19c7a770d73878f86766b8",5,4,"halo nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"cd1723ac116758cb87a16e7a1a30f270",5,4,"halo nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"d4e6307697e22eed8376fb2e2c54ab1f",5,5,"halo nevus","benign melanocyte","benign","",0,0,0,0,0,1,0,0,1,0,0,1
+"f2eda43c2fa0e4d269fe8cc4baf1e7d6",5,4,"halo nevus","benign melanocyte","benign","",1,1,1,1,1,1,1,1,1,0,1,1
+"f6fe73e66c6d27e33da417c8bc431847",5,4,"congenital nevus","benign melanocyte","benign","",0,0,1,0,0,1,0,0,1,0,0,1
+"94238b7bc1fa76e2fb7825d28a755453",6,5,"halo nevus","benign melanocyte","benign","",0,0,1,1,1,1,1,1,1,1,1,1
+"23298fb4037f3307f5a65b9e65d201a5",6,5,"congenital nevus","benign melanocyte","B","",0,0,1,0,0,1,1,1,1,0,0,1

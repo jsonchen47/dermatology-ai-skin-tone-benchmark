@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript and archived release."
+title: "Consumer-Facing Dermatology AI Benchmark Across Fitzpatrick Skin Tones"
+type: software
+version: 0.1.0
+date-released: 2026-08-01
+authors:
+  - family-names: Chen
+    given-names: Jason
+  - family-names: Yao
+    given-names: Leslie
+  - family-names: Borden
+    given-names: Ryan
+  - family-names: Kekad
+    given-names: Ziad
+  - family-names: Mueller
+    given-names: Kyle
+  - family-names: Williams
+    given-names: Andrew Steven
+  - family-names: Trinidad
+    given-names: John
+keywords:
+  - dermatology
+  - artificial intelligence
+  - diagnostic accuracy
+  - skin tone
+  - reproducibility
+license: MIT

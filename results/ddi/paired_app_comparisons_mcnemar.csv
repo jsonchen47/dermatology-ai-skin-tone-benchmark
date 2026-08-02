@@ -1,0 +1,3 @@
+outcome,discordant_10,discordant_01,p_value,p_value_holm
+Top-1 diagnosis accuracy,20,45,0.0029124200699636982,0.0058248401399273965
+Benign/malignant accuracy,29,30,1,1

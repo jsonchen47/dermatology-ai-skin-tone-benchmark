@@ -1,0 +1,4 @@
+disease_group,app,removed_top1_term,n_removed,rank
+basal cell carcinoma,Model Dermatol,skin cancer,48,1
+squamous cell carcinoma,Model Dermatol,skin cancer,31,1
+melanoma spectrum,Model Dermatol,skin cancer,30,1

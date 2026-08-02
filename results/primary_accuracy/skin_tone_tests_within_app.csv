@@ -1,0 +1,13 @@
+app,outcome,test,statistic,df,p_value
+AI Skin Scanner,Top-1 diagnosis accuracy,Chi-square,7.6166466576316605,5,0.1786669798419571
+Model Dermatol,Top-1 diagnosis accuracy,Chi-square,3.1289776130574944,5,0.6801090177651009
+ChatGPT,Top-1 diagnosis accuracy,Chi-square,5.153002833326221,5,0.39749450120251584
+Claude,Top-1 diagnosis accuracy,Chi-square,22.983939838431414,5,3.3996081230124785e-4
+AI Skin Scanner,Any diagnosis accuracy,Chi-square,3.911816270472488,5,0.5621809448677265
+Model Dermatol,Any diagnosis accuracy,Chi-square,3.3993138679790507,5,0.6386744247218822
+ChatGPT,Any diagnosis accuracy,Chi-square,16.542309561682575,5,0.005454819540016728
+Claude,Any diagnosis accuracy,Chi-square,12.340959690257662,5,0.030403033750346583
+AI Skin Scanner,Benign/malignant accuracy,Chi-square,13.4071082100617,5,0.019848225649535013
+Model Dermatol,Benign/malignant accuracy,Chi-square,6.620576118241766,5,0.25042176457179655
+ChatGPT,Benign/malignant accuracy,Chi-square,4.753109632068861,5,0.44674782709295024
+Claude,Benign/malignant accuracy,Fisher exact,NA,NA,0.3238745220981729

@@ -1,0 +1,5 @@
+app,outcome,statistic,p_value
+ChatGPT,Top-1 diagnosis accuracy,2.155992347039267,0.031084262740946576
+Claude,Top-1 diagnosis accuracy,0.1781741612749496,0.8585862013366392
+ChatGPT,Benign/malignant accuracy,0.18802535827258873,0.850856772669757
+Claude,Benign/malignant accuracy,-0.5679402936154194,0.5700755105088839

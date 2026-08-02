@@ -1,0 +1,25 @@
+disease_group,total,fitzpatrick_scale,n
+benign nevus,53,6,2
+basal cell carcinoma,58,6,3
+melanoma spectrum,60,6,9
+basal cell carcinoma,58,1,10
+basal cell carcinoma,58,2,10
+basal cell carcinoma,58,3,10
+basal cell carcinoma,58,4,10
+benign nevus,53,2,10
+benign nevus,53,3,10
+benign nevus,53,4,10
+benign nevus,53,5,10
+melanoma spectrum,60,1,10
+melanoma spectrum,60,2,10
+melanoma spectrum,60,3,10
+melanoma spectrum,60,4,10
+squamous cell carcinoma,60,1,10
+squamous cell carcinoma,60,2,10
+squamous cell carcinoma,60,3,10
+squamous cell carcinoma,60,4,10
+squamous cell carcinoma,60,5,10
+squamous cell carcinoma,60,6,10
+benign nevus,53,1,11
+melanoma spectrum,60,5,11
+basal cell carcinoma,58,5,15

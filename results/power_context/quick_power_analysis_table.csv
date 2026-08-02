@@ -1,0 +1,10 @@
+scenario,n_per_group,baseline_accuracy_pct,detectable_p2_pct,detectable_abs_difference_pct_points
+Overall grouped tones (~70 per group),70,30,11,19
+Overall grouped tones (~70 per group),70,50,27.1,22.9
+Overall grouped tones (~70 per group),70,70,89,19
+Disease-specific grouped tones (~20 per group),20,30,73,43
+Disease-specific grouped tones (~20 per group),20,50,10.4,39.6
+Disease-specific grouped tones (~20 per group),20,70,27,43
+Small 6-level cells (~10 per group),10,30,88.1,58.1
+Small 6-level cells (~10 per group),10,50,NA,NA
+Small 6-level cells (~10 per group),10,70,11.9,58.1

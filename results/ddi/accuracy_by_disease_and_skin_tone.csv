@@ -1,0 +1,253 @@
+app,disease,skin_tone,outcome,n,correct_n,accuracy,ci_low,ci_high
+ChatGPT,acrochordon,12,Top-1 diagnosis accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,acrochordon,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,acrochordon,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,angioma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,angioma,34,Top-1 diagnosis accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,angioma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,dermatofibroma,12,Top-1 diagnosis accuracy,6,0,0,0,0.3903342879021652
+ChatGPT,dermatofibroma,34,Top-1 diagnosis accuracy,6,2,0.3333333333333333,0.09677141110578052,0.7000066848616078
+ChatGPT,dermatofibroma,56,Top-1 diagnosis accuracy,6,3,0.5,0.1876163064826506,0.8123836935173494
+ChatGPT,eccrine-poroma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,eccrine-poroma,34,Top-1 diagnosis accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,eccrine-poroma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,epidermal-cyst,12,Top-1 diagnosis accuracy,5,0,0,0,0.43448246478317465
+ChatGPT,epidermal-cyst,34,Top-1 diagnosis accuracy,5,1,0.2,0.03622410863243014,0.6244653702374747
+ChatGPT,epidermal-cyst,56,Top-1 diagnosis accuracy,5,1,0.2,0.03622410863243014,0.6244653702374747
+ChatGPT,inverted-follicular-keratosis,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,inverted-follicular-keratosis,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,inverted-follicular-keratosis,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,kaposi-sarcoma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,kaposi-sarcoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,kaposi-sarcoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,lipoma,12,Top-1 diagnosis accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,lipoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,lipoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,melanocytic-nevi,12,Top-1 diagnosis accuracy,23,1,0.043478260869565216,0.007716666143453135,0.20991155070258866
+ChatGPT,melanocytic-nevi,34,Top-1 diagnosis accuracy,23,5,0.21739130434782608,0.09663978026586204,0.41903483016264
+ChatGPT,melanocytic-nevi,56,Top-1 diagnosis accuracy,23,7,0.30434782608695654,0.15604024453214027,0.508657562687592
+ChatGPT,melanoma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,melanoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,melanoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,metastatic-carcinoma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,metastatic-carcinoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,metastatic-carcinoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,mycosis-fungoides,12,Top-1 diagnosis accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,mycosis-fungoides,34,Top-1 diagnosis accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,mycosis-fungoides,56,Top-1 diagnosis accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,nevus-lipomatosus-superficialis,12,Top-1 diagnosis accuracy,2,0,0,0,0.6576197724933468
+ChatGPT,nevus-lipomatosus-superficialis,34,Top-1 diagnosis accuracy,2,0,0,0,0.6576197724933468
+ChatGPT,nevus-lipomatosus-superficialis,56,Top-1 diagnosis accuracy,2,0,0,0,0.6576197724933468
+ChatGPT,prurigo-nodularis,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,prurigo-nodularis,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,prurigo-nodularis,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,pyogenic-granuloma,12,Top-1 diagnosis accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,pyogenic-granuloma,34,Top-1 diagnosis accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,pyogenic-granuloma,56,Top-1 diagnosis accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+ChatGPT,seborrheic-keratosis,12,Top-1 diagnosis accuracy,18,1,0.05555555555555555,0.009875190978303083,0.25757300781872583
+ChatGPT,seborrheic-keratosis,34,Top-1 diagnosis accuracy,18,1,0.05555555555555555,0.009875190978303083,0.25757300781872583
+ChatGPT,seborrheic-keratosis,56,Top-1 diagnosis accuracy,18,1,0.05555555555555555,0.009875190978303083,0.25757300781872583
+ChatGPT,seborrheic-keratosis-irritated,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,seborrheic-keratosis-irritated,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,seborrheic-keratosis-irritated,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,squamous-cell-carcinoma,12,Top-1 diagnosis accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,squamous-cell-carcinoma,34,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+ChatGPT,squamous-cell-carcinoma,56,Top-1 diagnosis accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+ChatGPT,squamous-cell-carcinoma-in-situ,12,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+ChatGPT,squamous-cell-carcinoma-in-situ,34,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+ChatGPT,squamous-cell-carcinoma-in-situ,56,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+ChatGPT,squamous-cell-carcinoma-keratoacanthoma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,squamous-cell-carcinoma-keratoacanthoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,squamous-cell-carcinoma-keratoacanthoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,verruca-vulgaris,12,Top-1 diagnosis accuracy,7,0,0,0,0.3543304350666873
+ChatGPT,verruca-vulgaris,34,Top-1 diagnosis accuracy,7,1,0.14285714285714285,0.025679624344743524,0.5131278292743189
+ChatGPT,verruca-vulgaris,56,Top-1 diagnosis accuracy,7,0,0,0,0.3543304350666873
+Claude,acrochordon,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,acrochordon,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,acrochordon,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,angioma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,angioma,34,Top-1 diagnosis accuracy,1,1,1,0.2065493143772375,1
+Claude,angioma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,dermatofibroma,12,Top-1 diagnosis accuracy,6,1,0.16666666666666666,0.030053369748306635,0.5635028221864701
+Claude,dermatofibroma,34,Top-1 diagnosis accuracy,6,1,0.16666666666666666,0.030053369748306635,0.5635028221864701
+Claude,dermatofibroma,56,Top-1 diagnosis accuracy,6,1,0.16666666666666666,0.030053369748306635,0.5635028221864701
+Claude,eccrine-poroma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,eccrine-poroma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,eccrine-poroma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,epidermal-cyst,12,Top-1 diagnosis accuracy,5,0,0,0,0.43448246478317465
+Claude,epidermal-cyst,34,Top-1 diagnosis accuracy,5,1,0.2,0.03622410863243014,0.6244653702374747
+Claude,epidermal-cyst,56,Top-1 diagnosis accuracy,5,1,0.2,0.03622410863243014,0.6244653702374747
+Claude,inverted-follicular-keratosis,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,inverted-follicular-keratosis,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,inverted-follicular-keratosis,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,kaposi-sarcoma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,kaposi-sarcoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,kaposi-sarcoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,lipoma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,lipoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,lipoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,melanocytic-nevi,12,Top-1 diagnosis accuracy,23,12,0.5217391304347826,0.32962737336427417,0.7076284258335334
+Claude,melanocytic-nevi,34,Top-1 diagnosis accuracy,23,13,0.5652173913043478,0.36811375085016473,0.7436536467432578
+Claude,melanocytic-nevi,56,Top-1 diagnosis accuracy,23,13,0.5652173913043478,0.36811375085016473,0.7436536467432578
+Claude,melanoma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,melanoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,melanoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,metastatic-carcinoma,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,metastatic-carcinoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,metastatic-carcinoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,mycosis-fungoides,12,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+Claude,mycosis-fungoides,34,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+Claude,mycosis-fungoides,56,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+Claude,nevus-lipomatosus-superficialis,12,Top-1 diagnosis accuracy,2,0,0,0,0.6576197724933468
+Claude,nevus-lipomatosus-superficialis,34,Top-1 diagnosis accuracy,2,0,0,0,0.6576197724933468
+Claude,nevus-lipomatosus-superficialis,56,Top-1 diagnosis accuracy,2,0,0,0,0.6576197724933468
+Claude,prurigo-nodularis,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,prurigo-nodularis,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,prurigo-nodularis,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,pyogenic-granuloma,12,Top-1 diagnosis accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+Claude,pyogenic-granuloma,34,Top-1 diagnosis accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+Claude,pyogenic-granuloma,56,Top-1 diagnosis accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+Claude,seborrheic-keratosis,12,Top-1 diagnosis accuracy,18,4,0.2222222222222222,0.090009281086017,0.45214584316212614
+Claude,seborrheic-keratosis,34,Top-1 diagnosis accuracy,18,6,0.3333333333333333,0.162787747508337,0.5625053270405489
+Claude,seborrheic-keratosis,56,Top-1 diagnosis accuracy,18,2,0.1111111111111111,0.03101952264561242,0.32799765130178793
+Claude,seborrheic-keratosis-irritated,12,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,seborrheic-keratosis-irritated,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,seborrheic-keratosis-irritated,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,squamous-cell-carcinoma,12,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+Claude,squamous-cell-carcinoma,34,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+Claude,squamous-cell-carcinoma,56,Top-1 diagnosis accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+Claude,squamous-cell-carcinoma-in-situ,12,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+Claude,squamous-cell-carcinoma-in-situ,34,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+Claude,squamous-cell-carcinoma-in-situ,56,Top-1 diagnosis accuracy,3,0,0,0,0.5614970317550454
+Claude,squamous-cell-carcinoma-keratoacanthoma,12,Top-1 diagnosis accuracy,1,1,1,0.2065493143772375,1
+Claude,squamous-cell-carcinoma-keratoacanthoma,34,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,squamous-cell-carcinoma-keratoacanthoma,56,Top-1 diagnosis accuracy,1,0,0,0,0.7934506856227624
+Claude,verruca-vulgaris,12,Top-1 diagnosis accuracy,7,0,0,0,0.3543304350666873
+Claude,verruca-vulgaris,34,Top-1 diagnosis accuracy,7,1,0.14285714285714285,0.025679624344743524,0.5131278292743189
+Claude,verruca-vulgaris,56,Top-1 diagnosis accuracy,7,0,0,0,0.3543304350666873
+ChatGPT,acrochordon,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,acrochordon,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,acrochordon,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,angioma,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,angioma,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,angioma,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,dermatofibroma,12,Benign/malignant accuracy,6,6,1,0.6096657120978348,1
+ChatGPT,dermatofibroma,34,Benign/malignant accuracy,6,5,0.8333333333333334,0.43649717781352987,0.9699466302516933
+ChatGPT,dermatofibroma,56,Benign/malignant accuracy,6,5,0.8333333333333334,0.43649717781352987,0.9699466302516933
+ChatGPT,eccrine-poroma,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,eccrine-poroma,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,eccrine-poroma,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,epidermal-cyst,12,Benign/malignant accuracy,5,4,0.8,0.37553462976252533,0.9637758913675698
+ChatGPT,epidermal-cyst,34,Benign/malignant accuracy,5,5,1,0.5655175352168255,1
+ChatGPT,epidermal-cyst,56,Benign/malignant accuracy,5,5,1,0.5655175352168255,1
+ChatGPT,inverted-follicular-keratosis,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,inverted-follicular-keratosis,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,inverted-follicular-keratosis,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,kaposi-sarcoma,12,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,kaposi-sarcoma,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,kaposi-sarcoma,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,lipoma,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,lipoma,34,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,lipoma,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,melanocytic-nevi,12,Benign/malignant accuracy,23,22,0.9565217391304348,0.7900884492974114,0.9922833338565469
+ChatGPT,melanocytic-nevi,34,Benign/malignant accuracy,23,21,0.9130434782608695,0.7320401892425634,0.9758199955157796
+ChatGPT,melanocytic-nevi,56,Benign/malignant accuracy,23,20,0.8695652173913043,0.6787251772990404,0.9546234090636876
+ChatGPT,melanoma,12,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,melanoma,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,melanoma,56,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,metastatic-carcinoma,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,metastatic-carcinoma,34,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,metastatic-carcinoma,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,mycosis-fungoides,12,Benign/malignant accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,mycosis-fungoides,34,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+ChatGPT,mycosis-fungoides,56,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+ChatGPT,nevus-lipomatosus-superficialis,12,Benign/malignant accuracy,2,2,1,0.3423802275066532,1
+ChatGPT,nevus-lipomatosus-superficialis,34,Benign/malignant accuracy,2,2,1,0.3423802275066532,1
+ChatGPT,nevus-lipomatosus-superficialis,56,Benign/malignant accuracy,2,2,1,0.3423802275066532,1
+ChatGPT,prurigo-nodularis,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,prurigo-nodularis,34,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,prurigo-nodularis,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,pyogenic-granuloma,12,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+ChatGPT,pyogenic-granuloma,34,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+ChatGPT,pyogenic-granuloma,56,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+ChatGPT,seborrheic-keratosis,12,Benign/malignant accuracy,18,15,0.8333333333333334,0.6077796189608429,0.9416342319413855
+ChatGPT,seborrheic-keratosis,34,Benign/malignant accuracy,18,11,0.6111111111111112,0.38619041602237913,0.7969475342783637
+ChatGPT,seborrheic-keratosis,56,Benign/malignant accuracy,18,14,0.7777777777777778,0.5478541568378739,0.9099907189139831
+ChatGPT,seborrheic-keratosis-irritated,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,seborrheic-keratosis-irritated,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,seborrheic-keratosis-irritated,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,squamous-cell-carcinoma,12,Benign/malignant accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,squamous-cell-carcinoma,34,Benign/malignant accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,squamous-cell-carcinoma,56,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+ChatGPT,squamous-cell-carcinoma-in-situ,12,Benign/malignant accuracy,3,0,0,0,0.5614970317550454
+ChatGPT,squamous-cell-carcinoma-in-situ,34,Benign/malignant accuracy,3,3,1,0.4385029682449546,1
+ChatGPT,squamous-cell-carcinoma-in-situ,56,Benign/malignant accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+ChatGPT,squamous-cell-carcinoma-keratoacanthoma,12,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,squamous-cell-carcinoma-keratoacanthoma,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+ChatGPT,squamous-cell-carcinoma-keratoacanthoma,56,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+ChatGPT,verruca-vulgaris,12,Benign/malignant accuracy,7,6,0.8571428571428571,0.4868721707256813,0.9743203756552565
+ChatGPT,verruca-vulgaris,34,Benign/malignant accuracy,7,3,0.42857142857142855,0.15821985525146975,0.7495416354723428
+ChatGPT,verruca-vulgaris,56,Benign/malignant accuracy,7,6,0.8571428571428571,0.4868721707256813,0.9743203756552565
+Claude,acrochordon,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,acrochordon,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,acrochordon,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,angioma,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,angioma,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,angioma,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,dermatofibroma,12,Benign/malignant accuracy,6,6,1,0.6096657120978348,1
+Claude,dermatofibroma,34,Benign/malignant accuracy,6,4,0.6666666666666666,0.2999933151383921,0.9032285888942194
+Claude,dermatofibroma,56,Benign/malignant accuracy,6,5,0.8333333333333334,0.43649717781352987,0.9699466302516933
+Claude,eccrine-poroma,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,eccrine-poroma,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,eccrine-poroma,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,epidermal-cyst,12,Benign/malignant accuracy,5,4,0.8,0.37553462976252533,0.9637758913675698
+Claude,epidermal-cyst,34,Benign/malignant accuracy,5,3,0.6,0.23072428127601297,0.8823792257673521
+Claude,epidermal-cyst,56,Benign/malignant accuracy,5,3,0.6,0.23072428127601297,0.8823792257673521
+Claude,inverted-follicular-keratosis,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,inverted-follicular-keratosis,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,inverted-follicular-keratosis,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,kaposi-sarcoma,12,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,kaposi-sarcoma,34,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,kaposi-sarcoma,56,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,lipoma,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,lipoma,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,lipoma,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,melanocytic-nevi,12,Benign/malignant accuracy,23,23,1,0.8568833815495731,1
+Claude,melanocytic-nevi,34,Benign/malignant accuracy,23,22,0.9565217391304348,0.7900884492974114,0.9922833338565469
+Claude,melanocytic-nevi,56,Benign/malignant accuracy,23,21,0.9130434782608695,0.7320401892425634,0.9758199955157796
+Claude,melanoma,12,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,melanoma,34,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,melanoma,56,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,metastatic-carcinoma,12,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,metastatic-carcinoma,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,metastatic-carcinoma,56,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,mycosis-fungoides,12,Benign/malignant accuracy,3,0,0,0,0.5614970317550454
+Claude,mycosis-fungoides,34,Benign/malignant accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+Claude,mycosis-fungoides,56,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+Claude,nevus-lipomatosus-superficialis,12,Benign/malignant accuracy,2,2,1,0.3423802275066532,1
+Claude,nevus-lipomatosus-superficialis,34,Benign/malignant accuracy,2,2,1,0.3423802275066532,1
+Claude,nevus-lipomatosus-superficialis,56,Benign/malignant accuracy,2,1,0.5,0.09453120573423074,0.9054687942657693
+Claude,prurigo-nodularis,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,prurigo-nodularis,34,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,prurigo-nodularis,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,pyogenic-granuloma,12,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+Claude,pyogenic-granuloma,34,Benign/malignant accuracy,3,3,1,0.4385029682449546,1
+Claude,pyogenic-granuloma,56,Benign/malignant accuracy,3,3,1,0.4385029682449546,1
+Claude,seborrheic-keratosis,12,Benign/malignant accuracy,18,17,0.9444444444444444,0.7424269921812743,0.990124809021697
+Claude,seborrheic-keratosis,34,Benign/malignant accuracy,18,13,0.7222222222222222,0.49127343439702553,0.87500246620446
+Claude,seborrheic-keratosis,56,Benign/malignant accuracy,18,16,0.8888888888888888,0.6720023486982121,0.9689804773543875
+Claude,seborrheic-keratosis-irritated,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,seborrheic-keratosis-irritated,34,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,seborrheic-keratosis-irritated,56,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,squamous-cell-carcinoma,12,Benign/malignant accuracy,3,0,0,0,0.5614970317550454
+Claude,squamous-cell-carcinoma,34,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+Claude,squamous-cell-carcinoma,56,Benign/malignant accuracy,3,2,0.6666666666666666,0.20765960080204776,0.9385080552796037
+Claude,squamous-cell-carcinoma-in-situ,12,Benign/malignant accuracy,3,0,0,0,0.5614970317550454
+Claude,squamous-cell-carcinoma-in-situ,34,Benign/malignant accuracy,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979521
+Claude,squamous-cell-carcinoma-in-situ,56,Benign/malignant accuracy,3,0,0,0,0.5614970317550454
+Claude,squamous-cell-carcinoma-keratoacanthoma,12,Benign/malignant accuracy,1,1,1,0.2065493143772375,1
+Claude,squamous-cell-carcinoma-keratoacanthoma,34,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,squamous-cell-carcinoma-keratoacanthoma,56,Benign/malignant accuracy,1,0,0,0,0.7934506856227624
+Claude,verruca-vulgaris,12,Benign/malignant accuracy,7,7,1,0.6456695649333127,1
+Claude,verruca-vulgaris,34,Benign/malignant accuracy,7,6,0.8571428571428571,0.4868721707256813,0.9743203756552565
+Claude,verruca-vulgaris,56,Benign/malignant accuracy,7,6,0.8571428571428571,0.4868721707256813,0.9743203756552565

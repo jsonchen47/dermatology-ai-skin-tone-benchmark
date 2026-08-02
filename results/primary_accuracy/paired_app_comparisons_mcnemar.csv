@@ -1,0 +1,19 @@
+outcome,app_1,app_2,discordant_10,discordant_01,p_value,p_value_holm
+Top-1 diagnosis accuracy,AI Skin Scanner,Model Dermatol,18,70,5.430130114627344e-8,3.2580780687764065e-7
+Top-1 diagnosis accuracy,AI Skin Scanner,ChatGPT,37,47,0.326109452020489,0.652218904040978
+Top-1 diagnosis accuracy,AI Skin Scanner,Claude,43,62,0.07898257926378303,0.2369477377913491
+Top-1 diagnosis accuracy,Model Dermatol,ChatGPT,62,20,5.963125137503432e-6,2.981562568751716e-5
+Top-1 diagnosis accuracy,Model Dermatol,Claude,62,29,7.950525483363215e-4,0.003180210193345286
+Top-1 diagnosis accuracy,ChatGPT,Claude,31,40,0.34240433430952827,0.652218904040978
+Any diagnosis accuracy,AI Skin Scanner,Model Dermatol,24,44,0.021217679652174217,0.08487071860869687
+Any diagnosis accuracy,AI Skin Scanner,ChatGPT,16,49,7.214111945249383e-5,4.32846716714963e-4
+Any diagnosis accuracy,AI Skin Scanner,Claude,34,45,0.26055178780858734,0.5211035756171747
+Any diagnosis accuracy,Model Dermatol,ChatGPT,28,41,0.14856177489186834,0.445685324675605
+Any diagnosis accuracy,Model Dermatol,Claude,39,30,0.3355039530729943,0.5211035756171747
+Any diagnosis accuracy,ChatGPT,Claude,42,20,0.0076531064548393795,0.0382655322741969
+Benign/malignant accuracy,AI Skin Scanner,Model Dermatol,25,19,0.4509823192688827,0.9950552041705873
+Benign/malignant accuracy,AI Skin Scanner,ChatGPT,26,28,0.8917558535067944,0.9950552041705873
+Benign/malignant accuracy,AI Skin Scanner,Claude,19,41,0.006706275607805584,0.03353137803902792
+Benign/malignant accuracy,Model Dermatol,ChatGPT,22,30,0.33168506805686243,0.9950552041705873
+Benign/malignant accuracy,Model Dermatol,Claude,16,44,4.908786448402853e-4,0.0029452718690417116
+Benign/malignant accuracy,ChatGPT,Claude,17,37,0.00972174231224168,0.03888696924896672

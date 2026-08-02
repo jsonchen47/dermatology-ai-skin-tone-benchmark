@@ -1,0 +1,49 @@
+label,app,outcome,fitzpatrick_scale,n,correct_n,accuracy,ci_low,ci_high
+melanoma spectrum,AI Skin Scanner,Top-1 diagnosis accuracy,1,10,4,0.4,0.16818032970623614,0.6873262302663417
+melanoma spectrum,AI Skin Scanner,Top-1 diagnosis accuracy,2,10,3,0.3,0.10779126740630104,0.6032218525388545
+melanoma spectrum,AI Skin Scanner,Top-1 diagnosis accuracy,3,10,4,0.4,0.16818032970623614,0.6873262302663417
+melanoma spectrum,AI Skin Scanner,Top-1 diagnosis accuracy,4,10,6,0.6,0.3126737697336583,0.8318196702937637
+melanoma spectrum,AI Skin Scanner,Top-1 diagnosis accuracy,5,11,4,0.36363636363636365,0.15166471095367573,0.646198825492151
+melanoma spectrum,AI Skin Scanner,Top-1 diagnosis accuracy,6,9,5,0.5555555555555556,0.26665129349549316,0.8112214789023353
+melanoma spectrum,AI Skin Scanner,Benign/malignant accuracy,1,10,6,0.6,0.3126737697336583,0.8318196702937637
+melanoma spectrum,AI Skin Scanner,Benign/malignant accuracy,2,10,4,0.4,0.16818032970623614,0.6873262302663417
+melanoma spectrum,AI Skin Scanner,Benign/malignant accuracy,3,10,6,0.6,0.3126737697336583,0.8318196702937637
+melanoma spectrum,AI Skin Scanner,Benign/malignant accuracy,4,10,9,0.9,0.5958499732047616,0.982123786904927
+melanoma spectrum,AI Skin Scanner,Benign/malignant accuracy,5,11,6,0.5454545454545454,0.2800915374093221,0.7872872837754024
+melanoma spectrum,AI Skin Scanner,Benign/malignant accuracy,6,9,5,0.5555555555555556,0.26665129349549316,0.8112214789023353
+melanoma spectrum,Model Dermatol,Top-1 diagnosis accuracy,1,10,6,0.6,0.3126737697336583,0.8318196702937637
+melanoma spectrum,Model Dermatol,Top-1 diagnosis accuracy,2,10,4,0.4,0.16818032970623614,0.6873262302663417
+melanoma spectrum,Model Dermatol,Top-1 diagnosis accuracy,3,10,5,0.5,0.23659309051256405,0.763406909487436
+melanoma spectrum,Model Dermatol,Top-1 diagnosis accuracy,4,10,7,0.7,0.39677814746114537,0.8922087325936989
+melanoma spectrum,Model Dermatol,Top-1 diagnosis accuracy,5,11,4,0.36363636363636365,0.15166471095367573,0.646198825492151
+melanoma spectrum,Model Dermatol,Top-1 diagnosis accuracy,6,9,4,0.4444444444444444,0.18877852109766463,0.7333487065045068
+melanoma spectrum,Model Dermatol,Benign/malignant accuracy,1,10,6,0.6,0.3126737697336583,0.8318196702937637
+melanoma spectrum,Model Dermatol,Benign/malignant accuracy,2,10,4,0.4,0.16818032970623614,0.6873262302663417
+melanoma spectrum,Model Dermatol,Benign/malignant accuracy,3,10,5,0.5,0.23659309051256405,0.763406909487436
+melanoma spectrum,Model Dermatol,Benign/malignant accuracy,4,10,7,0.7,0.39677814746114537,0.8922087325936989
+melanoma spectrum,Model Dermatol,Benign/malignant accuracy,5,11,4,0.36363636363636365,0.15166471095367573,0.646198825492151
+melanoma spectrum,Model Dermatol,Benign/malignant accuracy,6,9,4,0.4444444444444444,0.18877852109766463,0.7333487065045068
+melanoma spectrum,ChatGPT,Top-1 diagnosis accuracy,1,10,5,0.5,0.23659309051256405,0.763406909487436
+melanoma spectrum,ChatGPT,Top-1 diagnosis accuracy,2,10,4,0.4,0.16818032970623614,0.6873262302663417
+melanoma spectrum,ChatGPT,Top-1 diagnosis accuracy,3,10,2,0.2,0.056682151454375274,0.5098375284633582
+melanoma spectrum,ChatGPT,Top-1 diagnosis accuracy,4,10,4,0.4,0.16818032970623614,0.6873262302663417
+melanoma spectrum,ChatGPT,Top-1 diagnosis accuracy,5,11,4,0.36363636363636365,0.15166471095367573,0.646198825492151
+melanoma spectrum,ChatGPT,Top-1 diagnosis accuracy,6,9,4,0.4444444444444444,0.18877852109766463,0.7333487065045068
+melanoma spectrum,ChatGPT,Benign/malignant accuracy,1,10,8,0.8,0.49016247153664183,0.9433178485456247
+melanoma spectrum,ChatGPT,Benign/malignant accuracy,2,10,5,0.5,0.23659309051256405,0.763406909487436
+melanoma spectrum,ChatGPT,Benign/malignant accuracy,3,10,4,0.4,0.16818032970623614,0.6873262302663417
+melanoma spectrum,ChatGPT,Benign/malignant accuracy,4,10,8,0.8,0.49016247153664183,0.9433178485456247
+melanoma spectrum,ChatGPT,Benign/malignant accuracy,5,11,8,0.7272727272727273,0.434354698823871,0.9025394070997511
+melanoma spectrum,ChatGPT,Benign/malignant accuracy,6,9,6,0.6666666666666666,0.3542021355803963,0.879416181613089
+melanoma spectrum,Claude,Top-1 diagnosis accuracy,1,10,5,0.5,0.23659309051256405,0.763406909487436
+melanoma spectrum,Claude,Top-1 diagnosis accuracy,2,10,8,0.8,0.49016247153664183,0.9433178485456247
+melanoma spectrum,Claude,Top-1 diagnosis accuracy,3,10,4,0.4,0.16818032970623614,0.6873262302663417
+melanoma spectrum,Claude,Top-1 diagnosis accuracy,4,10,6,0.6,0.3126737697336583,0.8318196702937637
+melanoma spectrum,Claude,Top-1 diagnosis accuracy,5,11,5,0.45454545454545453,0.2127127162245977,0.719908462590678
+melanoma spectrum,Claude,Top-1 diagnosis accuracy,6,9,5,0.5555555555555556,0.26665129349549316,0.8112214789023353
+melanoma spectrum,Claude,Benign/malignant accuracy,1,10,8,0.8,0.49016247153664183,0.9433178485456247
+melanoma spectrum,Claude,Benign/malignant accuracy,2,10,9,0.9,0.5958499732047616,0.982123786904927
+melanoma spectrum,Claude,Benign/malignant accuracy,3,10,8,0.8,0.49016247153664183,0.9433178485456247
+melanoma spectrum,Claude,Benign/malignant accuracy,4,10,9,0.9,0.5958499732047616,0.982123786904927
+melanoma spectrum,Claude,Benign/malignant accuracy,5,11,7,0.6363636363636364,0.3538011745078489,0.8483352890463243
+melanoma spectrum,Claude,Benign/malignant accuracy,6,9,6,0.6666666666666666,0.3542021355803963,0.879416181613089

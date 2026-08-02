@@ -1,0 +1,20 @@
+Input validation passed.
+
+Primary rows: 231
+Unique primary MD5 identifiers: 231
+Primary disease counts: basal cell carcinoma 58; benign nevus 53; melanoma spectrum 60; squamous cell carcinoma 60
+Primary grouped-tone counts: I-II 81; III-IV 80; V-VI 70
+DDI rows: 252
+DDI grouped-tone counts: 12 84; 34 84; 56 84
+
+Input MD5 checksums:
+data/ddi/chatgpt_outputs_252.csv  889ef8bdde651cebf159da546280ebe8
+data/ddi/claude_outputs_252.csv  72f6e6229841779cec3e279e70557c3b
+data/ddi/ddi_cohort_252.csv  07a57f18778ad94e3dee2fee8c15fc95
+data/fitzpatrick/cohort_manifest_231.csv  430a11e6190824e84a5eaa48f8f19a3a
+data/fitzpatrick/fitzpatrick_analysis_231.csv  92ceabdd1e48f0c74503cd9e7785caa0
+data/fitzpatrick/fitzpatrick_analysis_exact_top1_231.csv  1f06659b2166f2367a55399346d969a4
+data/fitzpatrick/per_image_application_outputs_231.csv  0aa33f72c8ebfa6ef9dfcb67e533fe8a
+data/fitzpatrick/truth_correct_diagnosis_exact_top1.csv  bb094ef6bf5ad3f2aa6aabc9d6ada8cb
+data/fitzpatrick/truth_correct_diagnosis.csv  ca26317d605d0ebaf50f2516a0fd5ed6
+data/fitzpatrick/truth_malignant_or_benign.csv  bfab0505649a7cec43b60c658061baec

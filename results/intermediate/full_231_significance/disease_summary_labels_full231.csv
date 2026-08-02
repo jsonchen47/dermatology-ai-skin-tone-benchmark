@@ -1,0 +1,17 @@
+disease_group,top_app,sig_lines,label
+basal cell carcinoma,Model Dermatol,"AI Skin Scanner > Claude, P=1.3e-04
+Model Dermatol > ChatGPT, P=2.5e-04
+Model Dermatol > Claude, P=1.1e-06
+ChatGPT > Claude, P=.018","Model Dermatol > ChatGPT and Claude
+AI Skin Scanner and ChatGPT > Claude
+all Holm P=.018 or lower"
+benign nevus,Model Dermatol,"Model Dermatol > AI Skin Scanner, P=3.1e-04
+ChatGPT > AI Skin Scanner, P=.023
+Claude > AI Skin Scanner, P=.023","AI Skin Scanner lower than all others
+all Holm P=.023 or lower"
+melanoma spectrum,Claude,NA,"No significant pairwise differences
+after Holm correction"
+squamous cell carcinoma,Model Dermatol,"Model Dermatol > AI Skin Scanner, P=6.3e-04
+Claude > AI Skin Scanner, P=6.3e-04","Model Dermatol and Claude
+> AI Skin Scanner
+both Holm P<.001"

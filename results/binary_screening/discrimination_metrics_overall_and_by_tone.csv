@@ -1,0 +1,65 @@
+target,app,n,positive_n,negative_n,auroc,auprc,stratum
+basal_cell_carcinoma_vs_rest,AI Skin Scanner,231,58,173,0.8633147299182778,0.7541330320528477,Overall
+basal_cell_carcinoma_vs_rest,ChatGPT,231,58,173,0.8664540562088898,0.6291627152428368,Overall
+basal_cell_carcinoma_vs_rest,Claude,231,58,173,0.7126768985449472,0.491006778739538,Overall
+basal_cell_carcinoma_vs_rest,Model Dermatol,231,58,173,0.7806956348415388,0.5085237255723836,Overall
+malignant_vs_benign,AI Skin Scanner,231,178,53,0.8777824888700445,0.9484619054527061,Overall
+malignant_vs_benign,ChatGPT,231,178,53,0.9164723341106635,0.9639210784036427,Overall
+malignant_vs_benign,Claude,231,178,53,0.9439262242951029,0.9770594570556538,Overall
+malignant_vs_benign,Model Dermatol,231,178,53,0.8706275174899301,0.9417411095621694,Overall
+melanoma_vs_rest,AI Skin Scanner,231,60,171,0.828411306042885,0.7327404006321836,Overall
+melanoma_vs_rest,ChatGPT,231,60,171,0.9104775828460039,0.8251783225897228,Overall
+melanoma_vs_rest,Claude,231,60,171,0.8389863547758285,0.756137106255981,Overall
+melanoma_vs_rest,Model Dermatol,231,60,171,0.5574074074074075,0.32654461701144405,Overall
+squamous_cell_carcinoma_vs_rest,AI Skin Scanner,231,60,171,0.7534600389863548,0.5586872564555513,Overall
+squamous_cell_carcinoma_vs_rest,ChatGPT,231,60,171,0.7906432748538011,0.6178884471289855,Overall
+squamous_cell_carcinoma_vs_rest,Claude,231,60,171,0.8016081871345029,0.609145572578438,Overall
+squamous_cell_carcinoma_vs_rest,Model Dermatol,231,60,171,0.5801169590643275,0.36099126614100663,Overall
+basal_cell_carcinoma_vs_rest,AI Skin Scanner,81,20,61,0.8028688524590164,0.6195373577040243,I-II
+basal_cell_carcinoma_vs_rest,AI Skin Scanner,80,20,60,0.9066666666666666,0.8448519170887593,III-IV
+basal_cell_carcinoma_vs_rest,AI Skin Scanner,70,18,52,0.8819444444444444,0.8387606220939553,V-VI
+basal_cell_carcinoma_vs_rest,ChatGPT,81,20,61,0.8778688524590164,0.67156937036323,I-II
+basal_cell_carcinoma_vs_rest,ChatGPT,80,20,60,0.82,0.5377277236652236,III-IV
+basal_cell_carcinoma_vs_rest,ChatGPT,70,18,52,0.9049145299145299,0.7319427848839615,V-VI
+basal_cell_carcinoma_vs_rest,Claude,81,20,61,0.7790983606557377,0.6153962982133272,I-II
+basal_cell_carcinoma_vs_rest,Claude,80,20,60,0.7458333333333333,0.5122516357911095,III-IV
+basal_cell_carcinoma_vs_rest,Claude,70,18,52,0.6105769230769231,0.3757396964633807,V-VI
+basal_cell_carcinoma_vs_rest,Model Dermatol,81,20,61,0.7057377049180328,0.3959109491383369,I-II
+basal_cell_carcinoma_vs_rest,Model Dermatol,80,20,60,0.81125,0.610584600180438,III-IV
+basal_cell_carcinoma_vs_rest,Model Dermatol,70,18,52,0.8413461538461539,0.5773236822796857,V-VI
+malignant_vs_benign,AI Skin Scanner,81,60,21,0.8873015873015873,0.9459091625068202,I-II
+malignant_vs_benign,AI Skin Scanner,80,60,20,0.9116666666666666,0.9580065359477125,III-IV
+malignant_vs_benign,AI Skin Scanner,70,58,12,0.8175287356321839,0.9458211048671985,V-VI
+malignant_vs_benign,ChatGPT,81,60,21,0.9198412698412698,0.9625770675964264,I-II
+malignant_vs_benign,ChatGPT,80,60,20,0.87,0.9319463880684385,III-IV
+malignant_vs_benign,ChatGPT,70,58,12,0.9698275862068966,0.9911330049261083,V-VI
+malignant_vs_benign,Claude,81,60,21,0.9373015873015873,0.9661648592292679,I-II
+malignant_vs_benign,Claude,80,60,20,0.9579166666666666,0.9818336131208525,III-IV
+malignant_vs_benign,Claude,70,58,12,0.9353448275862069,0.9852216748768473,V-VI
+malignant_vs_benign,Model Dermatol,81,60,21,0.85,0.9257856341189674,I-II
+malignant_vs_benign,Model Dermatol,80,60,20,0.8833333333333333,0.9416666666666667,III-IV
+malignant_vs_benign,Model Dermatol,70,58,12,0.8793103448275862,0.9586206896551724,V-VI
+melanoma_vs_rest,AI Skin Scanner,81,20,61,0.8270491803278689,0.6682504731298591,I-II
+melanoma_vs_rest,AI Skin Scanner,80,20,60,0.8916666666666667,0.8500000000000001,III-IV
+melanoma_vs_rest,AI Skin Scanner,70,20,50,0.756,0.6691691641691642,V-VI
+melanoma_vs_rest,ChatGPT,81,20,61,0.909016393442623,0.838519050895212,I-II
+melanoma_vs_rest,ChatGPT,80,20,60,0.9120833333333334,0.8126456876456877,III-IV
+melanoma_vs_rest,ChatGPT,70,20,50,0.909,0.82205893521683,V-VI
+melanoma_vs_rest,Claude,81,20,61,0.85,0.774074074074074,I-II
+melanoma_vs_rest,Claude,80,20,60,0.85,0.7749999999999999,III-IV
+melanoma_vs_rest,Claude,70,20,50,0.8175,0.7295995670995671,V-VI
+melanoma_vs_rest,Model Dermatol,81,20,61,0.5336065573770492,0.332604351946196,I-II
+melanoma_vs_rest,Model Dermatol,80,20,60,0.6075,0.2998635026106303,III-IV
+melanoma_vs_rest,Model Dermatol,70,20,50,0.514,0.3933654886779887,V-VI
+squamous_cell_carcinoma_vs_rest,AI Skin Scanner,81,20,61,0.7979508196721311,0.5965590906818976,I-II
+squamous_cell_carcinoma_vs_rest,AI Skin Scanner,80,20,60,0.6908333333333333,0.48211122211122215,III-IV
+squamous_cell_carcinoma_vs_rest,AI Skin Scanner,70,20,50,0.775,0.6621987734487734,V-VI
+squamous_cell_carcinoma_vs_rest,ChatGPT,81,20,61,0.8274590163934427,0.6630190796857464,I-II
+squamous_cell_carcinoma_vs_rest,ChatGPT,80,20,60,0.7258333333333333,0.516107843137255,III-IV
+squamous_cell_carcinoma_vs_rest,ChatGPT,70,20,50,0.817,0.6824213717317167,V-VI
+squamous_cell_carcinoma_vs_rest,Claude,81,20,61,0.8549180327868853,0.6724590656725381,I-II
+squamous_cell_carcinoma_vs_rest,Claude,80,20,60,0.7854166666666667,0.5557081807081807,III-IV
+squamous_cell_carcinoma_vs_rest,Claude,70,20,50,0.7585,0.6035989713611197,V-VI
+squamous_cell_carcinoma_vs_rest,Model Dermatol,81,20,61,0.6930327868852459,0.47006798100799346,I-II
+squamous_cell_carcinoma_vs_rest,Model Dermatol,80,20,60,0.5654166666666667,0.3717566592566593,III-IV
+squamous_cell_carcinoma_vs_rest,Model Dermatol,70,20,50,0.482,0.28891621812459095,V-VI

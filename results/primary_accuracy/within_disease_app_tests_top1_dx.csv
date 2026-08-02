@@ -1,0 +1,5 @@
+label,test,statistic,df,p_value
+basal cell carcinoma,Chi-square,39.09313725490196,3,1.6585735128127625e-8
+squamous cell carcinoma,Chi-square,20.262794918330307,3,1.4973151101077485e-4
+benign nevus,Chi-square,18.417145044010717,3,3.607650482110265e-4
+melanoma spectrum,Chi-square,3.883928571428571,3,0.2742736002290075

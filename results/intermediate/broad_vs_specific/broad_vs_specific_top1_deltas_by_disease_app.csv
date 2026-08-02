@@ -1,0 +1,17 @@
+disease_group,app,accuracy_Broad allowed,accuracy_Specific only,correct_n_Broad allowed,correct_n_Specific only,n_Broad allowed,n_Specific only,drop_pts,drop_n,label
+basal cell carcinoma,AI Skin Scanner,0.7068965517241379,0.7068965517241379,41,41,58,58,0,0,+0.0 pts
+basal cell carcinoma,Model Dermatol,0.8275862068965517,0,48,0,58,58,-82.75862068965517,48,-82.8 pts
+basal cell carcinoma,ChatGPT,0.5172413793103449,0.5172413793103449,30,30,58,58,0,0,+0.0 pts
+basal cell carcinoma,Claude,0.29310344827586204,0.29310344827586204,17,17,58,58,0,0,+0.0 pts
+benign nevus,AI Skin Scanner,0.1320754716981132,0.1320754716981132,7,7,53,53,0,0,+0.0 pts
+benign nevus,Model Dermatol,0.5094339622641509,0.5094339622641509,27,27,53,53,0,0,+0.0 pts
+benign nevus,ChatGPT,0.39622641509433965,0.39622641509433965,21,21,53,53,0,0,+0.0 pts
+benign nevus,Claude,0.4339622641509434,0.4339622641509434,23,23,53,53,0,0,+0.0 pts
+melanoma spectrum,AI Skin Scanner,0.43333333333333335,0.43333333333333335,26,26,60,60,0,0,+0.0 pts
+melanoma spectrum,Model Dermatol,0.5,0,30,0,60,60,-50,30,-50.0 pts
+melanoma spectrum,ChatGPT,0.38333333333333336,0.38333333333333336,23,23,60,60,0,0,+0.0 pts
+melanoma spectrum,Claude,0.55,0.55,33,33,60,60,0,0,+0.0 pts
+squamous cell carcinoma,AI Skin Scanner,0.18333333333333332,0.18333333333333332,11,11,60,60,0,0,+0.0 pts
+squamous cell carcinoma,Model Dermatol,0.5333333333333333,0.016666666666666666,32,1,60,60,-51.66666666666666,31,-51.7 pts
+squamous cell carcinoma,ChatGPT,0.35,0.35,21,21,60,60,0,0,+0.0 pts
+squamous cell carcinoma,Claude,0.5166666666666667,0.5166666666666667,31,31,60,60,0,0,+0.0 pts

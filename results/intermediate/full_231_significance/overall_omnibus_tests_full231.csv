@@ -1,0 +1,4 @@
+metric,cochran_q_p
+Top-1 diagnosis,1.1497240180598673e-7
+Top-3 diagnosis,6.843569624827805e-4
+Benign/malignant triage,9.354608870118653e-4

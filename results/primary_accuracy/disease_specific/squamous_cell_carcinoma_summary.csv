@@ -1,0 +1,49 @@
+label,app,outcome,fitzpatrick_scale,n,correct_n,accuracy,ci_low,ci_high
+squamous cell carcinoma,AI Skin Scanner,Top-1 diagnosis accuracy,1,10,1,0.1,0.017876213095072924,0.40415002679523837
+squamous cell carcinoma,AI Skin Scanner,Top-1 diagnosis accuracy,2,10,4,0.4,0.16818032970623614,0.6873262302663417
+squamous cell carcinoma,AI Skin Scanner,Top-1 diagnosis accuracy,3,10,0,0,0,0.27753279986288903
+squamous cell carcinoma,AI Skin Scanner,Top-1 diagnosis accuracy,4,10,2,0.2,0.056682151454375274,0.5098375284633582
+squamous cell carcinoma,AI Skin Scanner,Top-1 diagnosis accuracy,5,10,1,0.1,0.017876213095072924,0.40415002679523837
+squamous cell carcinoma,AI Skin Scanner,Top-1 diagnosis accuracy,6,10,3,0.3,0.10779126740630104,0.6032218525388545
+squamous cell carcinoma,AI Skin Scanner,Benign/malignant accuracy,1,10,8,0.8,0.49016247153664183,0.9433178485456247
+squamous cell carcinoma,AI Skin Scanner,Benign/malignant accuracy,2,10,9,0.9,0.5958499732047616,0.982123786904927
+squamous cell carcinoma,AI Skin Scanner,Benign/malignant accuracy,3,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,AI Skin Scanner,Benign/malignant accuracy,4,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,AI Skin Scanner,Benign/malignant accuracy,5,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,AI Skin Scanner,Benign/malignant accuracy,6,10,3,0.3,0.10779126740630104,0.6032218525388545
+squamous cell carcinoma,Model Dermatol,Top-1 diagnosis accuracy,1,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,Model Dermatol,Top-1 diagnosis accuracy,2,10,8,0.8,0.49016247153664183,0.9433178485456247
+squamous cell carcinoma,Model Dermatol,Top-1 diagnosis accuracy,3,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,Model Dermatol,Top-1 diagnosis accuracy,4,10,4,0.4,0.16818032970623614,0.6873262302663417
+squamous cell carcinoma,Model Dermatol,Top-1 diagnosis accuracy,5,10,5,0.5,0.23659309051256405,0.763406909487436
+squamous cell carcinoma,Model Dermatol,Top-1 diagnosis accuracy,6,10,3,0.3,0.10779126740630104,0.6032218525388545
+squamous cell carcinoma,Model Dermatol,Benign/malignant accuracy,1,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,Model Dermatol,Benign/malignant accuracy,2,10,8,0.8,0.49016247153664183,0.9433178485456247
+squamous cell carcinoma,Model Dermatol,Benign/malignant accuracy,3,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,Model Dermatol,Benign/malignant accuracy,4,10,4,0.4,0.16818032970623614,0.6873262302663417
+squamous cell carcinoma,Model Dermatol,Benign/malignant accuracy,5,10,5,0.5,0.23659309051256405,0.763406909487436
+squamous cell carcinoma,Model Dermatol,Benign/malignant accuracy,6,10,3,0.3,0.10779126740630104,0.6032218525388545
+squamous cell carcinoma,ChatGPT,Top-1 diagnosis accuracy,1,10,5,0.5,0.23659309051256405,0.763406909487436
+squamous cell carcinoma,ChatGPT,Top-1 diagnosis accuracy,2,10,4,0.4,0.16818032970623614,0.6873262302663417
+squamous cell carcinoma,ChatGPT,Top-1 diagnosis accuracy,3,10,2,0.2,0.056682151454375274,0.5098375284633582
+squamous cell carcinoma,ChatGPT,Top-1 diagnosis accuracy,4,10,3,0.3,0.10779126740630104,0.6032218525388545
+squamous cell carcinoma,ChatGPT,Top-1 diagnosis accuracy,5,10,2,0.2,0.056682151454375274,0.5098375284633582
+squamous cell carcinoma,ChatGPT,Top-1 diagnosis accuracy,6,10,5,0.5,0.23659309051256405,0.763406909487436
+squamous cell carcinoma,ChatGPT,Benign/malignant accuracy,1,10,7,0.7,0.39677814746114537,0.8922087325936989
+squamous cell carcinoma,ChatGPT,Benign/malignant accuracy,2,10,9,0.9,0.5958499732047616,0.982123786904927
+squamous cell carcinoma,ChatGPT,Benign/malignant accuracy,3,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,ChatGPT,Benign/malignant accuracy,4,10,7,0.7,0.39677814746114537,0.8922087325936989
+squamous cell carcinoma,ChatGPT,Benign/malignant accuracy,5,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,ChatGPT,Benign/malignant accuracy,6,10,7,0.7,0.39677814746114537,0.8922087325936989
+squamous cell carcinoma,Claude,Top-1 diagnosis accuracy,1,10,7,0.7,0.39677814746114537,0.8922087325936989
+squamous cell carcinoma,Claude,Top-1 diagnosis accuracy,2,10,7,0.7,0.39677814746114537,0.8922087325936989
+squamous cell carcinoma,Claude,Top-1 diagnosis accuracy,3,10,2,0.2,0.056682151454375274,0.5098375284633582
+squamous cell carcinoma,Claude,Top-1 diagnosis accuracy,4,10,7,0.7,0.39677814746114537,0.8922087325936989
+squamous cell carcinoma,Claude,Top-1 diagnosis accuracy,5,10,2,0.2,0.056682151454375274,0.5098375284633582
+squamous cell carcinoma,Claude,Top-1 diagnosis accuracy,6,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,Claude,Benign/malignant accuracy,1,10,7,0.7,0.39677814746114537,0.8922087325936989
+squamous cell carcinoma,Claude,Benign/malignant accuracy,2,10,9,0.9,0.5958499732047616,0.982123786904927
+squamous cell carcinoma,Claude,Benign/malignant accuracy,3,10,6,0.6,0.3126737697336583,0.8318196702937637
+squamous cell carcinoma,Claude,Benign/malignant accuracy,4,10,7,0.7,0.39677814746114537,0.8922087325936989
+squamous cell carcinoma,Claude,Benign/malignant accuracy,5,10,7,0.7,0.39677814746114537,0.8922087325936989
+squamous cell carcinoma,Claude,Benign/malignant accuracy,6,10,9,0.9,0.5958499732047616,0.982123786904927

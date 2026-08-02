@@ -1,0 +1,17 @@
+app,label,test,statistic,df,p_value
+AI Skin Scanner,basal cell carcinoma,Fisher exact,NA,NA,0.10590532874581075
+AI Skin Scanner,benign nevus,Fisher exact,NA,NA,0.22842303397596428
+AI Skin Scanner,squamous cell carcinoma,Fisher exact,NA,NA,0.2727798471569224
+AI Skin Scanner,melanoma spectrum,Fisher exact,NA,NA,0.771627926904742
+Model Dermatol,squamous cell carcinoma,Fisher exact,NA,NA,0.3404502469870844
+Model Dermatol,benign nevus,Fisher exact,NA,NA,0.6569131034530072
+Model Dermatol,melanoma spectrum,Fisher exact,NA,NA,0.6884968718554492
+Model Dermatol,basal cell carcinoma,Fisher exact,NA,NA,0.8157136638577293
+ChatGPT,benign nevus,Fisher exact,NA,NA,0.40803014773382146
+ChatGPT,squamous cell carcinoma,Fisher exact,NA,NA,0.5857244809880187
+ChatGPT,basal cell carcinoma,Fisher exact,NA,NA,0.791816674878373
+ChatGPT,melanoma spectrum,Fisher exact,NA,NA,0.8328824446757392
+Claude,basal cell carcinoma,Fisher exact,NA,NA,0.015758605493111626
+Claude,squamous cell carcinoma,Fisher exact,NA,NA,0.03439597798267051
+Claude,melanoma spectrum,Fisher exact,NA,NA,0.5592977306706536
+Claude,benign nevus,Fisher exact,NA,NA,0.6139849983190385

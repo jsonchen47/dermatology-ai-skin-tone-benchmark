@@ -1,0 +1,17 @@
+app,target,imputed_differential_n,images_with_imputation_n
+AI Skin Scanner,basal_cell_carcinoma_vs_rest,0,0
+AI Skin Scanner,malignant_vs_benign,0,0
+AI Skin Scanner,melanoma_vs_rest,0,0
+AI Skin Scanner,squamous_cell_carcinoma_vs_rest,0,0
+Model Dermatol,basal_cell_carcinoma_vs_rest,0,0
+Model Dermatol,malignant_vs_benign,3,3
+Model Dermatol,melanoma_vs_rest,0,0
+Model Dermatol,squamous_cell_carcinoma_vs_rest,3,3
+ChatGPT,basal_cell_carcinoma_vs_rest,0,0
+ChatGPT,malignant_vs_benign,0,0
+ChatGPT,melanoma_vs_rest,0,0
+ChatGPT,squamous_cell_carcinoma_vs_rest,0,0
+Claude,basal_cell_carcinoma_vs_rest,0,0
+Claude,malignant_vs_benign,0,0
+Claude,melanoma_vs_rest,0,0
+Claude,squamous_cell_carcinoma_vs_rest,0,0

@@ -1,0 +1,49 @@
+app,outcome,label,n,correct_n,accuracy,ci_low,ci_high
+AI Skin Scanner,Top-1 diagnosis accuracy,melanoma spectrum,60,26,0.43333333333333335,0.3157239680468677,0.5589656122387443
+AI Skin Scanner,Top-1 diagnosis accuracy,squamous cell carcinoma,60,11,0.18333333333333332,0.10557796889197642,0.2991975374646805
+AI Skin Scanner,Top-1 diagnosis accuracy,basal cell carcinoma,58,41,0.7068965517241379,0.5798709910321588,0.8082181720903779
+AI Skin Scanner,Top-1 diagnosis accuracy,benign nevus,53,7,0.1320754716981132,0.06547853284463252,0.24840255308904924
+AI Skin Scanner,Any diagnosis accuracy,melanoma spectrum,60,39,0.65,0.5236261884175486,0.7583222559398244
+AI Skin Scanner,Any diagnosis accuracy,squamous cell carcinoma,60,39,0.65,0.5236261884175486,0.7583222559398244
+AI Skin Scanner,Any diagnosis accuracy,basal cell carcinoma,58,49,0.8448275862068966,0.730660191401075,0.9161550804698196
+AI Skin Scanner,Any diagnosis accuracy,benign nevus,53,8,0.1509433962264151,0.07852417850846266,0.27054249276195336
+AI Skin Scanner,Benign/malignant accuracy,melanoma spectrum,60,36,0.6,0.47366053492040755,0.7143050946511744
+AI Skin Scanner,Benign/malignant accuracy,squamous cell carcinoma,60,38,0.6333333333333333,0.5068300063010303,0.7437908331277456
+AI Skin Scanner,Benign/malignant accuracy,basal cell carcinoma,58,45,0.7758620689655172,0.6533888236108131,0.8640633938859025
+AI Skin Scanner,Benign/malignant accuracy,benign nevus,53,50,0.9433962264150944,0.8462979168981912,0.9805633385150643
+Model Dermatol,Top-1 diagnosis accuracy,melanoma spectrum,60,30,0.5,0.3773502424155577,0.6226497575844423
+Model Dermatol,Top-1 diagnosis accuracy,squamous cell carcinoma,60,32,0.5333333333333333,0.40893427027157897,0.653720939585615
+Model Dermatol,Top-1 diagnosis accuracy,basal cell carcinoma,58,48,0.8275862068965517,0.7109174349067378,0.903557073370612
+Model Dermatol,Top-1 diagnosis accuracy,benign nevus,53,27,0.5094339622641509,0.3788352911467996,0.6387575015215676
+Model Dermatol,Any diagnosis accuracy,melanoma spectrum,60,37,0.6166666666666667,0.49017595824099935,0.7291172762591797
+Model Dermatol,Any diagnosis accuracy,squamous cell carcinoma,60,36,0.6,0.47366053492040755,0.7143050946511744
+Model Dermatol,Any diagnosis accuracy,basal cell carcinoma,58,52,0.896551724137931,0.7921189700751577,0.951718592576371
+Model Dermatol,Any diagnosis accuracy,benign nevus,53,30,0.5660377358490566,0.4326535142760729,0.690496034402497
+Model Dermatol,Benign/malignant accuracy,melanoma spectrum,60,30,0.5,0.3773502424155577,0.6226497575844423
+Model Dermatol,Benign/malignant accuracy,squamous cell carcinoma,60,32,0.5333333333333333,0.40893427027157897,0.653720939585615
+Model Dermatol,Benign/malignant accuracy,basal cell carcinoma,58,48,0.8275862068965517,0.7109174349067378,0.903557073370612
+Model Dermatol,Benign/malignant accuracy,benign nevus,53,53,1,0.9324180114234583,1
+ChatGPT,Top-1 diagnosis accuracy,melanoma spectrum,60,23,0.38333333333333336,0.27088272374082023,0.5098240417590006
+ChatGPT,Top-1 diagnosis accuracy,squamous cell carcinoma,60,21,0.35,0.24167774406017556,0.47637381158245123
+ChatGPT,Top-1 diagnosis accuracy,basal cell carcinoma,58,30,0.5172413793103449,0.39162261783409485,0.6407181457594501
+ChatGPT,Top-1 diagnosis accuracy,benign nevus,53,21,0.39622641509433965,0.2758940673800168,0.5305852132679447
+ChatGPT,Any diagnosis accuracy,melanoma spectrum,60,47,0.7833333333333333,0.6637997242680522,0.8687695595180969
+ChatGPT,Any diagnosis accuracy,squamous cell carcinoma,60,45,0.75,0.6276792992295219,0.8422347746994332
+ChatGPT,Any diagnosis accuracy,basal cell carcinoma,58,52,0.896551724137931,0.7921189700751577,0.951718592576371
+ChatGPT,Any diagnosis accuracy,benign nevus,53,24,0.4528301886792453,0.32657579152922245,0.5854602451289419
+ChatGPT,Benign/malignant accuracy,melanoma spectrum,60,39,0.65,0.5236261884175486,0.7583222559398244
+ChatGPT,Benign/malignant accuracy,squamous cell carcinoma,60,42,0.7,0.5749129205308552,0.8010183386123089
+ChatGPT,Benign/malignant accuracy,basal cell carcinoma,58,39,0.6724137931034483,0.544240546784708,0.7791670891507392
+ChatGPT,Benign/malignant accuracy,benign nevus,53,51,0.9622641509433962,0.8724571280258165,0.9895897127241732
+Claude,Top-1 diagnosis accuracy,melanoma spectrum,60,33,0.55,0.4249193588533435,0.6690634559324476
+Claude,Top-1 diagnosis accuracy,squamous cell carcinoma,60,31,0.5166666666666667,0.393078100325925,0.6382495046026722
+Claude,Top-1 diagnosis accuracy,basal cell carcinoma,58,17,0.29310344827586204,0.191781827909622,0.42012900896784117
+Claude,Top-1 diagnosis accuracy,benign nevus,53,23,0.4339622641509434,0.30950396559750293,0.5673464857239271
+Claude,Any diagnosis accuracy,melanoma spectrum,60,37,0.6166666666666667,0.49017595824099935,0.7291172762591797
+Claude,Any diagnosis accuracy,squamous cell carcinoma,60,46,0.7666666666666667,0.6456372962239805,0.8556043826335717
+Claude,Any diagnosis accuracy,basal cell carcinoma,58,36,0.6206896551724138,0.49202807192768905,0.7343572732271242
+Claude,Any diagnosis accuracy,benign nevus,53,27,0.5094339622641509,0.3788352911467996,0.6387575015215676
+Claude,Benign/malignant accuracy,melanoma spectrum,60,47,0.7833333333333333,0.6637997242680522,0.8687695595180969
+Claude,Benign/malignant accuracy,squamous cell carcinoma,60,45,0.75,0.6276792992295219,0.8422347746994332
+Claude,Benign/malignant accuracy,basal cell carcinoma,58,47,0.8103448275862069,0.6914762612950078,0.8906574833887972
+Claude,Benign/malignant accuracy,benign nevus,53,52,0.9811320754716981,0.9005708794749878,0.9966615466117363

@@ -1,0 +1,4 @@
+outcome,n_observations,n_images,applications_per_image,covariance,cluster_id
+Benign/malignant accuracy,924,231,4,Image-clustered sandwich (CR1),md5hash
+Top-1 diagnosis accuracy,924,231,4,Image-clustered sandwich (CR1),md5hash
+Top-3 diagnosis accuracy,924,231,4,Image-clustered sandwich (CR1),md5hash

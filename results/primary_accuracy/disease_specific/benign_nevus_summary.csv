@@ -1,0 +1,49 @@
+label,app,outcome,fitzpatrick_scale,n,correct_n,accuracy,ci_low,ci_high
+benign nevus,AI Skin Scanner,Top-1 diagnosis accuracy,1,11,0,0,0,0.2588329669680316
+benign nevus,AI Skin Scanner,Top-1 diagnosis accuracy,2,10,0,0,0,0.27753279986288903
+benign nevus,AI Skin Scanner,Top-1 diagnosis accuracy,3,10,2,0.2,0.056682151454375274,0.5098375284633582
+benign nevus,AI Skin Scanner,Top-1 diagnosis accuracy,4,10,3,0.3,0.10779126740630104,0.6032218525388545
+benign nevus,AI Skin Scanner,Top-1 diagnosis accuracy,5,10,2,0.2,0.056682151454375274,0.5098375284633582
+benign nevus,AI Skin Scanner,Top-1 diagnosis accuracy,6,2,0,0,0,0.6576197724933468
+benign nevus,AI Skin Scanner,Benign/malignant accuracy,1,11,10,0.9090909090909091,0.6226415635484046,0.9837678271141153
+benign nevus,AI Skin Scanner,Benign/malignant accuracy,2,10,9,0.9,0.5958499732047616,0.982123786904927
+benign nevus,AI Skin Scanner,Benign/malignant accuracy,3,10,10,1,0.7224672001371109,1
+benign nevus,AI Skin Scanner,Benign/malignant accuracy,4,10,10,1,0.7224672001371109,1
+benign nevus,AI Skin Scanner,Benign/malignant accuracy,5,10,9,0.9,0.5958499732047616,0.982123786904927
+benign nevus,AI Skin Scanner,Benign/malignant accuracy,6,2,2,1,0.3423802275066532,1
+benign nevus,Model Dermatol,Top-1 diagnosis accuracy,1,11,6,0.5454545454545454,0.2800915374093221,0.7872872837754024
+benign nevus,Model Dermatol,Top-1 diagnosis accuracy,2,10,3,0.3,0.10779126740630104,0.6032218525388545
+benign nevus,Model Dermatol,Top-1 diagnosis accuracy,3,10,5,0.5,0.23659309051256405,0.763406909487436
+benign nevus,Model Dermatol,Top-1 diagnosis accuracy,4,10,7,0.7,0.39677814746114537,0.8922087325936989
+benign nevus,Model Dermatol,Top-1 diagnosis accuracy,5,10,5,0.5,0.23659309051256405,0.763406909487436
+benign nevus,Model Dermatol,Top-1 diagnosis accuracy,6,2,1,0.5,0.09453120573423074,0.9054687942657693
+benign nevus,Model Dermatol,Benign/malignant accuracy,1,11,11,1,0.7411670330319684,1
+benign nevus,Model Dermatol,Benign/malignant accuracy,2,10,10,1,0.7224672001371109,1
+benign nevus,Model Dermatol,Benign/malignant accuracy,3,10,10,1,0.7224672001371109,1
+benign nevus,Model Dermatol,Benign/malignant accuracy,4,10,10,1,0.7224672001371109,1
+benign nevus,Model Dermatol,Benign/malignant accuracy,5,10,10,1,0.7224672001371109,1
+benign nevus,Model Dermatol,Benign/malignant accuracy,6,2,2,1,0.3423802275066532,1
+benign nevus,ChatGPT,Top-1 diagnosis accuracy,1,11,5,0.45454545454545453,0.2127127162245977,0.719908462590678
+benign nevus,ChatGPT,Top-1 diagnosis accuracy,2,10,4,0.4,0.16818032970623614,0.6873262302663417
+benign nevus,ChatGPT,Top-1 diagnosis accuracy,3,10,2,0.2,0.056682151454375274,0.5098375284633582
+benign nevus,ChatGPT,Top-1 diagnosis accuracy,4,10,3,0.3,0.10779126740630104,0.6032218525388545
+benign nevus,ChatGPT,Top-1 diagnosis accuracy,5,10,5,0.5,0.23659309051256405,0.763406909487436
+benign nevus,ChatGPT,Top-1 diagnosis accuracy,6,2,2,1,0.3423802275066532,1
+benign nevus,ChatGPT,Benign/malignant accuracy,1,11,10,0.9090909090909091,0.6226415635484046,0.9837678271141153
+benign nevus,ChatGPT,Benign/malignant accuracy,2,10,10,1,0.7224672001371109,1
+benign nevus,ChatGPT,Benign/malignant accuracy,3,10,9,0.9,0.5958499732047616,0.982123786904927
+benign nevus,ChatGPT,Benign/malignant accuracy,4,10,10,1,0.7224672001371109,1
+benign nevus,ChatGPT,Benign/malignant accuracy,5,10,10,1,0.7224672001371109,1
+benign nevus,ChatGPT,Benign/malignant accuracy,6,2,2,1,0.3423802275066532,1
+benign nevus,Claude,Top-1 diagnosis accuracy,1,11,7,0.6363636363636364,0.3538011745078489,0.8483352890463243
+benign nevus,Claude,Top-1 diagnosis accuracy,2,10,5,0.5,0.23659309051256405,0.763406909487436
+benign nevus,Claude,Top-1 diagnosis accuracy,3,10,3,0.3,0.10779126740630104,0.6032218525388545
+benign nevus,Claude,Top-1 diagnosis accuracy,4,10,4,0.4,0.16818032970623614,0.6873262302663417
+benign nevus,Claude,Top-1 diagnosis accuracy,5,10,3,0.3,0.10779126740630104,0.6032218525388545
+benign nevus,Claude,Top-1 diagnosis accuracy,6,2,1,0.5,0.09453120573423074,0.9054687942657693
+benign nevus,Claude,Benign/malignant accuracy,1,11,11,1,0.7411670330319684,1
+benign nevus,Claude,Benign/malignant accuracy,2,10,9,0.9,0.5958499732047616,0.982123786904927
+benign nevus,Claude,Benign/malignant accuracy,3,10,10,1,0.7224672001371109,1
+benign nevus,Claude,Benign/malignant accuracy,4,10,10,1,0.7224672001371109,1
+benign nevus,Claude,Benign/malignant accuracy,5,10,10,1,0.7224672001371109,1
+benign nevus,Claude,Benign/malignant accuracy,6,2,2,1,0.3423802275066532,1

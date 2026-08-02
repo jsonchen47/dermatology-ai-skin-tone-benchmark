@@ -1,0 +1,13 @@
+disease_group,total,grouped_tone,n
+benign nevus,53,V-VI,12
+basal cell carcinoma,58,V-VI,18
+basal cell carcinoma,58,I-II,20
+basal cell carcinoma,58,III-IV,20
+benign nevus,53,III-IV,20
+melanoma spectrum,60,I-II,20
+melanoma spectrum,60,III-IV,20
+melanoma spectrum,60,V-VI,20
+squamous cell carcinoma,60,I-II,20
+squamous cell carcinoma,60,III-IV,20
+squamous cell carcinoma,60,V-VI,20
+benign nevus,53,I-II,21

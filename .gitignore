@@ -1,0 +1,10 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+source_images/
+data/source_images/
+*.zip
+*.tar.gz

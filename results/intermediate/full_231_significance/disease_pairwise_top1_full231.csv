@@ -1,0 +1,25 @@
+app_1,app_2,discordant_10,discordant_01,p_value,better_app,disease_group,p_value_holm
+AI Skin Scanner,Model Dermatol,4,11,0.12133525035848249,Model Dermatol,basal cell carcinoma,0.12133525035848249
+AI Skin Scanner,ChatGPT,16,5,0.029096331741252254,AI Skin Scanner,basal cell carcinoma,0.05819266348250451
+AI Skin Scanner,Claude,27,3,2.6785223425411132e-5,AI Skin Scanner,basal cell carcinoma,1.3392611712705567e-4
+Model Dermatol,ChatGPT,18,0,6.1510890352728e-5,Model Dermatol,basal cell carcinoma,2.46043561410912e-4
+Model Dermatol,Claude,32,1,1.7668604421878398e-7,Model Dermatol,basal cell carcinoma,1.0601162653127039e-6
+ChatGPT,Claude,16,3,0.005905391532593254,ChatGPT,basal cell carcinoma,0.01771617459777976
+AI Skin Scanner,Model Dermatol,1,21,5.103985260291324e-5,Model Dermatol,benign nevus,3.0623911561747944e-4
+AI Skin Scanner,ChatGPT,4,18,0.005577994003398266,ChatGPT,benign nevus,0.022931960401267465
+AI Skin Scanner,Claude,6,22,0.004586392080253493,Claude,benign nevus,0.022931960401267465
+Model Dermatol,ChatGPT,11,5,0.21129954733371056,Model Dermatol,benign nevus,0.6338986420011317
+Model Dermatol,Claude,8,4,0.3864762307712327,Model Dermatol,benign nevus,0.7729524615424654
+ChatGPT,Claude,6,8,0.7892680261342813,Claude,benign nevus,0.7892680261342813
+AI Skin Scanner,Model Dermatol,10,14,0.5402913746074198,Model Dermatol,melanoma spectrum,1
+AI Skin Scanner,ChatGPT,12,9,0.6625205835400575,AI Skin Scanner,melanoma spectrum,1
+AI Skin Scanner,Claude,8,15,0.2109029260566104,Claude,melanoma spectrum,1
+Model Dermatol,ChatGPT,17,10,0.24821307898992362,Model Dermatol,melanoma spectrum,1
+Model Dermatol,Claude,11,14,0.6891565167793517,Claude,melanoma spectrum,1
+ChatGPT,Claude,5,15,0.04417134490844255,Claude,melanoma spectrum,0.2650280694506553
+AI Skin Scanner,Model Dermatol,3,24,1.1860013866224714e-4,Model Dermatol,squamous cell carcinoma,6.309813242017867e-4
+AI Skin Scanner,ChatGPT,5,15,0.04417134490844255,ChatGPT,squamous cell carcinoma,0.11638532696500901
+AI Skin Scanner,Claude,2,22,1.0516355403363112e-4,Claude,squamous cell carcinoma,6.309813242017867e-4
+Model Dermatol,ChatGPT,16,5,0.029096331741252254,Model Dermatol,squamous cell carcinoma,0.11638532696500901
+Model Dermatol,Claude,11,10,1,Model Dermatol,squamous cell carcinoma,1
+ChatGPT,Claude,4,14,0.0338948535246892,Claude,squamous cell carcinoma,0.11638532696500901
